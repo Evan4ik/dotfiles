@@ -1,0 +1,80 @@
+<Stats deaths="103" kills="25" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="3" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="21" >
+    </E>
+    <E key="NULL | $damage_fire" value="3" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="4" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="ant | $damage_melee" value="1" >
+    </E>
+    <E key="death_ghost | $damage_curse" value="2" >
+    </E>
+    <E key="firebug | $damage_fire" value="1" >
+    </E>
+    <E key="firebug | $damage_melee" value="1" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="2" >
+    </E>
+    <E key="iceskull | $damage_ice" value="3" >
+    </E>
+    <E key="iceskull | $damage_melee" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_kick" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="31" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="rat | $damage_melee" value="3" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="2" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="8" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+    <E key="thunderskull | $damage_electricity" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="3" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="rat" value="11" >
+    </E>
+    <E key="shotgunner" value="3" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

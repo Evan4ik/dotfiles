@@ -1,0 +1,18 @@
+<Stats deaths="5" kills="2" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_radioactive" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="1" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fly" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+  </kill_map>
+</Stats>

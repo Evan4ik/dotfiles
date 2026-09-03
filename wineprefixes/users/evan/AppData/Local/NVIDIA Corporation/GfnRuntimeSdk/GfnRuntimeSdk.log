@@ -1,0 +1,11 @@
+2025-11-04T20:26:04.273[I]   GfnSdk  APP         TaskQueue.hpp:90   TimedNotificationQueue created
+2025-11-04T20:26:04.273[I]   GfnSdk  APP         TaskQueue.hpp:136  TaskQueue created
+2025-11-04T20:26:04.273[I]   GfnSdk  APP GfnRuntimeBootstrap.c:170  Create Bootstrap
+2025-11-04T20:26:04.300[I]   GfnSdk  APP         TaskQueue.hpp:145  TaskQueue Start called
+2025-11-04T20:26:04.300[I]   GfnSdk  APP         TaskQueue.hpp:33   INotification created
+2025-11-04T20:26:04.300[I]                       TaskQueue.hpp:57   DequeueNotification Wait start
+2025-11-04T20:26:04.300[I]                       TaskQueue.hpp:74   DequeueNotification Wait end
+2025-11-04T20:26:04.300[I]               GfnRuntimeBootstrap.c:682  Joining MessageBus as GfnSdk:GfnSdkClientPeer_312
+2025-11-04T20:26:04.301[E]               GfnRuntimeBootstrap.c:700  Could not get MessageBus interface
+2025-11-04T20:26:04.301[I]                       TaskQueue.hpp:37   INotification destroyed
+2025-11-04T20:26:04.301[I]                       TaskQueue.hpp:57   DequeueNotification Wait start

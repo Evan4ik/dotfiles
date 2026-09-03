@@ -1,0 +1,42 @@
+<Stats deaths="86" kills="30" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_fire" value="9" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="5" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="43" >
+    </E>
+    <E key="player | $damage_slice" value="8" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="7" >
+    </E>
+    <E key="slimeshooter_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="3" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="longleg" value="8" >
+    </E>
+    <E key="miner_weak" value="5" >
+    </E>
+    <E key="shotgunner_weak" value="3" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="zombie_weak" value="13" >
+    </E>
+  </kill_map>
+</Stats>

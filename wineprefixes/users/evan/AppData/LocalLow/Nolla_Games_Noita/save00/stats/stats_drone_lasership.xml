@@ -1,0 +1,22 @@
+<Stats deaths="15" kills="4" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="6" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshot" value="2" >
+    </E>
+  </kill_map>
+</Stats>

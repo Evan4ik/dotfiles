@@ -1,0 +1,16 @@
+<Stats deaths="14" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="5" >
+    </E>
+    <E key="player | $damage_projectile" value="4" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

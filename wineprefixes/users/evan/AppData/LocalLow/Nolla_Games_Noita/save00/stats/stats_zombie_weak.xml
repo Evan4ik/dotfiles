@@ -1,0 +1,64 @@
+<Stats deaths="414" kills="23" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_explosion" value="13" >
+    </E>
+    <E key="NULL | $damage_fire" value="28" >
+    </E>
+    <E key="NULL | $damage_melee" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | damage from material: acid" value="4" >
+    </E>
+    <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="5" >
+    </E>
+    <E key="acidshooter_weak | $damage_melee" value="1" >
+    </E>
+    <E key="acidshooter_weak | $damage_projectile" value="2" >
+    </E>
+    <E key="blob | $damage_melee" value="3" >
+    </E>
+    <E key="broken_wand | $damage_projectile" value="1" >
+    </E>
+    <E key="longleg | $damage_melee" value="4" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="53" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="43" >
+    </E>
+    <E key="miner_weak | $damage_slice" value="2" >
+    </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="137" >
+    </E>
+    <E key="player | $damage_slice" value="22" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="10" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="54" >
+    </E>
+    <E key="slimeshooter_weak | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter_weak | $damage_projectile" value="12" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="longleg" value="16" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

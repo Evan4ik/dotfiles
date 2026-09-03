@@ -1,0 +1,440 @@
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 85;] Initiating Loader Resources...
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 781;] Initiating Window...
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 783;] Initiating Graphics...
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 212;] OpenGL Version: 3.2.0 NVIDIA 580.173.02
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 213;] OpenGL Vendor: NVIDIA Corporation
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 214;] OpenGL Renderer: NVIDIA GeForce GTX 1050 Ti
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 215;] GLSL Version: 1.50 NVIDIA via Cg compiler
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_AMD_multi_draw_indirect
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_AMD_seamless_cubemap_per_texture
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_AMD_vertex_shader_layer
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_AMD_vertex_shader_viewport_index
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_ES2_compatibility
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_ES3_1_compatibility
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_ES3_2_compatibility
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_ES3_compatibility
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_arrays_of_arrays
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_base_instance
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_bindless_texture
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_blend_func_extended
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_buffer_storage
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_clear_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_clear_texture
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_clip_control
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_color_buffer_float
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_compressed_texture_pixel_storage
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_compute_shader
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_compute_variable_group_size
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_conditional_render_inverted
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_conservative_depth
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_copy_buffer
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_copy_image
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_cull_distance
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_debug_output
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_depth_buffer_float
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_depth_clamp
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_depth_texture
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_derivative_control
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_direct_state_access
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_draw_buffers
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_draw_buffers_blend
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_draw_elements_base_vertex
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_draw_indirect
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_draw_instanced
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_enhanced_layouts
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_explicit_attrib_location
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_explicit_uniform_location
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_fragment_coord_conventions
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_fragment_layer_viewport
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_fragment_program
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_fragment_program_shadow
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_fragment_shader
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_fragment_shader_interlock
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_framebuffer_no_attachments
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_framebuffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_framebuffer_sRGB
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_geometry_shader4
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_get_program_binary
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_get_texture_sub_image
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_gl_spirv
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_gpu_shader5
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_gpu_shader_fp64
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_gpu_shader_int64
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_half_float_pixel
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_half_float_vertex
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_imaging
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_indirect_parameters
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_instanced_arrays
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_internalformat_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_internalformat_query2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_invalidate_subdata
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_map_buffer_alignment
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_map_buffer_range
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_multi_bind
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_multi_draw_indirect
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_multisample
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_multitexture
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_occlusion_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_occlusion_query2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_parallel_shader_compile
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_pipeline_statistics_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_pixel_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_point_parameters
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_point_sprite
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_polygon_offset_clamp
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_post_depth_coverage
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_program_interface_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_provoking_vertex
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_query_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_robust_buffer_access_behavior
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_robustness
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_sample_locations
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_sample_shading
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_sampler_objects
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_seamless_cube_map
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_seamless_cubemap_per_texture
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_separate_shader_objects
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_atomic_counter_ops
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_atomic_counters
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_ballot
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_bit_encoding
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_clock
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_draw_parameters
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_group_vote
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_image_load_store
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_image_size
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_objects
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_precision
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_storage_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_subroutine
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_texture_image_samples
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_texture_lod
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shader_viewport_layer_array
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shading_language_100
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shading_language_420pack
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shading_language_include
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shading_language_packing
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_shadow
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_sparse_buffer
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_sparse_texture
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_sparse_texture2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_sparse_texture_clamp
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_spirv_extensions
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_stencil_texturing
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_sync
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_tessellation_shader
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_barrier
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_border_clamp
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_buffer_object_rgb32
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_buffer_range
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_compression
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_compression_bptc
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_compression_rgtc
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_cube_map
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_cube_map_array
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_env_add
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_env_combine
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_env_crossbar
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_env_dot3
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_filter_anisotropic
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_filter_minmax
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_float
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_gather
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_mirror_clamp_to_edge
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_mirrored_repeat
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_multisample
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_non_power_of_two
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_query_levels
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_query_lod
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_rectangle
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_rg
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_rgb10_a2ui
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_stencil8
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_storage
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_storage_multisample
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_swizzle
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_texture_view
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_timer_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_transform_feedback2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_transform_feedback3
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_transform_feedback_instanced
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_transform_feedback_overflow_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_transpose_matrix
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_uniform_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_vertex_array_bgra
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_vertex_array_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_vertex_attrib_64bit
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_vertex_attrib_binding
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_vertex_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_vertex_program
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_vertex_shader
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_vertex_type_10f_11f_11f_rev
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_vertex_type_2_10_10_10_rev
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_viewport_array
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ARB_window_pos
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ATI_draw_buffers
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ATI_texture_float
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_ATI_texture_mirror_once
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXTX_framebuffer_mixed_formats
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_Cg_shader
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_EGL_image_storage
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_abgr
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_bgra
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_bindable_uniform
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_blend_color
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_blend_equation_separate
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_blend_func_separate
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_blend_minmax
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_blend_subtract
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_compiled_vertex_array
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_depth_bounds_test
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_direct_state_access
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_draw_buffers2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_draw_instanced
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_draw_range_elements
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_fog_coord
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_framebuffer_blit
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_framebuffer_multisample
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_framebuffer_multisample_blit_scaled
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_framebuffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_framebuffer_sRGB
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_geometry_shader4
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_gpu_program_parameters
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_gpu_shader4
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_import_sync_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_memory_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_memory_object_fd
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_multi_draw_arrays
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_multiview_texture_multisample
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_multiview_timer_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_packed_depth_stencil
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_packed_float
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_packed_pixels
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_pixel_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_point_parameters
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_polygon_offset_clamp
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_post_depth_coverage
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_provoking_vertex
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_raster_multisample
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_rescale_normal
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_secondary_color
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_semaphore
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_semaphore_fd
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_separate_shader_objects
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_separate_specular_color
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_shader_image_load_formatted
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_shader_image_load_store
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_shader_integer_mix
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_shadow_funcs
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_sparse_texture2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_stencil_two_side
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_stencil_wrap
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture3D
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_array
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_compression_dxt1
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_compression_latc
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_compression_rgtc
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_compression_s3tc
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_cube_map
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_edge_clamp
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_env_add
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_env_combine
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_env_dot3
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_filter_anisotropic
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_filter_minmax
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_integer
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_lod
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_lod_bias
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_mirror_clamp
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_sRGB
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_sRGB_R8
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_sRGB_decode
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_shadow_lod
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_shared_exponent
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_storage
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_texture_swizzle
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_timer_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_transform_feedback2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_vertex_array
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_vertex_array_bgra
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_vertex_attrib_64bit
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_EXT_window_rectangles
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_IBM_rasterpos_clip
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_IBM_texture_mirrored_repeat
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_KHR_blend_equation_advanced
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_KHR_blend_equation_advanced_coherent
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_KHR_context_flush_control
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_KHR_debug
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_KHR_no_error
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_KHR_parallel_shader_compile
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_KHR_robust_buffer_access_behavior
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_KHR_robustness
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_KHR_shader_subgroup
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_KTX_buffer_region
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NVX_blend_equation_advanced_multi_draw_buffers
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NVX_conditional_render
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NVX_gpu_memory_info
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NVX_nvenc_interop
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NVX_progress_fence
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_ES1_1_compatibility
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_ES3_1_compatibility
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_alpha_to_coverage_dither_control
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_bindless_multi_draw_indirect
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_bindless_multi_draw_indirect_count
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_bindless_texture
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_blend_equation_advanced
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_blend_equation_advanced_coherent
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_blend_minmax_factor
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_blend_square
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_clip_space_w_scaling
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_command_list
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_compute_program5
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_conditional_render
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_conservative_raster
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_conservative_raster_dilate
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_conservative_raster_pre_snap_triangles
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_copy_depth_to_color
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_copy_image
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_depth_buffer_float
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_depth_clamp
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_draw_texture
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_draw_vulkan_image
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_explicit_multisample
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_feature_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_fence
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_fill_rectangle
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_float_buffer
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_fog_distance
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_fragment_coverage_to_color
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_fragment_program
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_fragment_program2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_fragment_program_option
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_fragment_shader_interlock
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_framebuffer_mixed_samples
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_framebuffer_multisample_coverage
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_geometry_shader4
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_geometry_shader_passthrough
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_gpu_multicast
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_gpu_program4
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_gpu_program4_1
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_gpu_program5
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_gpu_program5_mem_extended
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_gpu_program_fp64
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_gpu_program_multiview
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_gpu_shader5
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_half_float
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_internalformat_sample_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_light_max_exponent
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_memory_attachment
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_memory_object_sparse
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_multisample_coverage
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_multisample_filter_hint
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_occlusion_query
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_packed_depth_stencil
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_parameter_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_parameter_buffer_object2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_path_rendering
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_path_rendering_shared_edge
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_point_sprite
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_primitive_restart
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_query_resource
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_query_resource_tag
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_register_combiners
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_register_combiners2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_robustness_video_memory_purge
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_sample_locations
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_sample_mask_override_coverage
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_shader_atomic_counters
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_shader_atomic_float
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_shader_atomic_float64
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_shader_atomic_fp16_vector
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_shader_atomic_int64
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_shader_buffer_load
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_shader_storage_buffer_object
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_shader_subgroup_partitioned
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_shader_thread_group
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_shader_thread_shuffle
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_stereo_view_rendering
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_texgen_reflection
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_texture_barrier
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_texture_compression_vtc
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_texture_env_combine4
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_texture_multisample
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_texture_rectangle
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_texture_rectangle_compressed
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_texture_shader
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_texture_shader2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_texture_shader3
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_timeline_semaphore
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_transform_feedback
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_transform_feedback2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_uniform_buffer_std430_layout
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_uniform_buffer_unified_memory
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_vertex_attrib_integer_64bit
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_vertex_buffer_unified_memory
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_vertex_program
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_vertex_program1_1
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_vertex_program2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_vertex_program2_option
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_vertex_program3
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_viewport_array2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_NV_viewport_swizzle
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_OES_EGL_image
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_OVR_multiview
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_OVR_multiview2
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_S3_s3tc
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_SGIS_generate_mipmap
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_SGIS_texture_lod
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_SGIX_depth_texture
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_SGIX_shadow
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] GL_SUN_slice_accum
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] WGL_EXT_extensions_string
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 218;] WGL_EXT_swap_control
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 227;] Max Texture Layers 2048
+[file: C:\Users\Tyler\Desktop\SVN\Mewgenics\game\code\App.cpp; line: 139;] Loading loc file: data/text/combined.csv
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 788;] Initiating Loader...
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\GradientAtlas.cpp; line: 114;] 1
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\engine\Startup\Application.cpp; line: 801;] Loading...
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\rendering\MondoBuffer.cpp; line: 193;] Adding new Mondo buffer
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/house_interstitials.swf (12384 vertices, 35760 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/effects.swf (12329 vertices, 36831 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/bosses3.swf (13885 vertices, 40179 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/portraits.swf (10322 vertices, 30351 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/portraits.swf (10318 vertices, 30339 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/bosses3.swf (22624 vertices, 67632 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/furniture.swf (15814 vertices, 47544 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/furniture.swf (12959 vertices, 38961 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (24994 vertices, 70017 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (12862 vertices, 36795 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/ui.swf (14640 vertices, 43566 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (14071 vertices, 39345 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/bosses4.swf (11995 vertices, 35841 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (10287 vertices, 29328 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (17149 vertices, 48867 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (14183 vertices, 40725 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/bosses4.swf (28267 vertices, 78903 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (17246 vertices, 49596 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (16986 vertices, 49128 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (11402 vertices, 33216 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/ui.swf (11612 vertices, 34452 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (11580 vertices, 33222 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (17896 vertices, 50727 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (19876 vertices, 56859 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (12005 vertices, 34734 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (20715 vertices, 59493 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (13440 vertices, 38913 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (18656 vertices, 53616 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/ui.swf (17009 vertices, 50889 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (20494 vertices, 59514 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (11235 vertices, 33579 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (30824 vertices, 87657 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (11999 vertices, 34209 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (11322 vertices, 32124 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (19940 vertices, 57522 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (10764 vertices, 31554 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/map.swf (14442 vertices, 42351 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/events.swf (15414 vertices, 47682 indices)
+[file: C:\Users\Tyler\Desktop\SVN\Engine\code\glaielswf\renderer\Tesselator.cpp; line: 216;] WARNING: EXTRA LARGE VERTEX BUFFER swfs/event

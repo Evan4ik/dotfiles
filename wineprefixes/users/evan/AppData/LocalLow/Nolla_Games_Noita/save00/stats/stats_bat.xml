@@ -1,0 +1,40 @@
+<Stats deaths="127" kills="14" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="6" >
+    </E>
+    <E key="NULL | $damage_fire" value="43" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="13" >
+    </E>
+    <E key="NULL | damage from material: lava" value="3" >
+    </E>
+    <E key="NULL | damage from material: toxic gas" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_kick" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="51" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player | bzzt!" value="1" >
+    </E>
+    <E key="rat | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="2" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="firebug" value="5" >
+    </E>
+    <E key="rat" value="9" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,38 @@
+<Stats deaths="115" kills="8" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="15" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="6" >
+    </E>
+    <E key="NULL | $damage_water" value="1" >
+    </E>
+    <E key="NULL | damage from material: Water" value="30" >
+    </E>
+    <E key="bat | $damage_melee" value="5" >
+    </E>
+    <E key="death_ghost | $damage_curse" value="1" >
+    </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="46" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="rat" value="3" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,8 @@
+Godot Engine v3.3.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce GTX 1050 Ti
+OpenGL ES Batching: ON
+ 
+**WARNING**: No small icon found, reusing 109x109 @32768 icon!
+   At: platform/windows/os_windows.cpp:3050:set_native_icon() - No small icon found, reusing 109x109 @32768 icon!
+**WARNING**: ObjectDB instances leaked at exit (run with --verbose for details).
+   At: core/object.cpp:2132:cleanup() - ObjectDB instances leaked at exit (run with --verbose for details).

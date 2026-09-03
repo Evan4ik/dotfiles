@@ -1,0 +1,11 @@
+Godot Engine v3.6.1.stable.official.b1ba98fce - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2
+Async. shader compilation: OFF
+ 
+ERROR: (Node not found: "screensavers/loop/screen/dummy" (relative to "World").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: setup_local_to_scene (scene/main/viewport.cpp:72) - Condition "!vpn" is true.
+ERROR: (Node not found: "../Player" (relative to "/root/World/menu").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+connected: 

@@ -1,0 +1,249 @@
+{
+  "output": ["DVI-D-1", "HDMI-A-1"],
+  "layer": "top", "position": "top",
+  "modules-left": ["custom/logo", "clock",  "custom/weather", "disk", "temperature", "mango/window" ],
+  "modules-center": ["mango/workspaces"],
+  "modules-right": ["tray",  "custom/screenshot", "pulseaudio", "network",  "memory", "cpu", "custom/powerDraw", "mango/language", "custom/power"  ],
+  "reload_style_on_change":true,
+
+  "custom/logo": {
+    "format": "",
+    "return-type": "json",
+    "tooltip-format": " gentoo linux",
+    //"exec": "sleep 30; waybar-updates -k",
+    "on-click": "mmsg dispatch togglejump",
+  },
+
+  "mango/workspaces": {
+	"format": "{icon}",
+	"format-icons": {
+		"1": "1",
+		"2": "2",
+		"3": "3",
+		"4": "4",
+		"5": "5",
+		"6": "6",
+		"7": "7",
+		"8": "8",
+		"9": "9",
+		"0": "0",
+		"active": "",
+		"default": "" 
+	},
+       "persistent-workspaces": {
+         "*": [ 1, 2, 3, 4 ]
+       },
+       "hide_empty": true,
+       "on-click": "activate",
+       "on-click-right": "toggle"
+},
+
+"idle_inhibitor":{
+  "format": "<span font='12'>{icon} </span>",
+  "format-icons": {
+    "activated":"󰈈",
+    "deactivated":"󰈉"
+  }
+},
+
+"custom/weather": {
+  "format": "{}",
+  "return-type": "json",
+  "exec": "~/.config/waybar/scripts/weather.sh",
+  "interval": 10,
+  "on-click": "librewolf https://wttr.in"
+},
+
+"custom/clipboard":{
+  "format":"",
+  "on-click": "cliphist list | rofi -dmenu | cliphist decode | wl-copy",
+  "interval":86400
+},
+
+
+"custom/screenshot":{
+  "format":"󰄀",
+  "on-click": "/home/evan/dox/screenshotutil",
+},
+
+"clock": {
+      "format": "{:%H:%M}",
+      "interval":1,
+      //"timezone":"America/Los_Angeles",
+      "tooltip-format": "<big>{:%d %B %Y\n%H:%M:%S}</big>\n\n<tt><small>{calendar}</small></tt>",
+      "calendar-weeks-pos": "left",
+      "today-format": "<span color='#7645AD'><b><u>{}</u></b></span>",
+      "format-calendar": "<span color='#aeaeae'><b>{}</b></span>",
+      "format-calendar-weeks": "<span color='#aeaeae'><b>W{:%V}</b></span>",
+      "format-calendar-weekdays": "<span color='#aeaeae'><b>{}</b></span>",
+      "format-calendar-today": "<span color='#5fd1fa'><b>{}</b></span>"
+      },
+
+  "bluetooth": {
+  "format-on": "",
+  "format-off": "",
+  "format-disabled": "󰂲",
+  "format-connected": "󰂴",
+  "format-connected-battery": "{device_battery_percentage}% 󰂴",
+  "tooltip-format": "{controller_alias}\t{controller_address}\n\n{num_connections} connected",
+  "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{num_connections} connected\n\n{device_enumerate}",
+  "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}",
+  "tooltip-format-enumerate-connected-battery": "{device_alias}\t{device_address}\t{device_battery_percentage}%",
+  "on-click": "rofi-bluetooth",
+ }, 
+
+"network": {
+      "format-wifi": " ",
+      "format-ethernet":" ",
+      "format-disconnected": "",
+      "tooltip-format": "{ipaddr}",
+      "tooltip-format-wifi": "{essid} ({signalStrength}%)  | {ipaddr}",
+      "tooltip-format-ethernet": "{ifname} 🖧 | {ipaddr}",
+      "on-click": "foot -e nmtui"
+    },
+
+"battery": {
+    "interval":1,
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 20
+        },
+        "format": "{capacity}%  {icon} ",
+        "format-charging": "{capacity}% 󰂄 ",
+        "format-plugged": "{capacity}% 󰂄 ",
+        "format-alt": "{time} {icon}",
+            "format-icons": [
+          "󰁻",
+          "󰁼",
+          "󰁾",
+          "󰂀",
+          "󰂂",
+          "󰁹"
+        ],
+    },
+"backlight": {
+  "device": "intel_backlight",
+  "format": "<span font='12'>{icon}</span>",
+  "format-icons": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+  ],
+  "on-scroll-down": "light -A 10",
+  "on-scroll-up": "light -U 10",
+  "smooth-scrolling-threshold": 1
+  },
+
+ "disk": {
+    "interval": 300,
+    "format": " {percentage_used}%",
+    "path": "/home"
+  },
+
+  "custom/colorpicker": {
+    "format": "{}",
+    "return-type": "json",
+    "interval": "once",
+    "exec": "~/.config/waybar/scripts/colorpicker.sh -j",
+    "on-click": "sleep 1 && ~/.config/waybar/scripts/colorpicker.sh",
+    "signal": 1
+  },
+
+  "cpu": {
+      "interval": 1,
+      "format": " {usage}%",
+      "min-length": 6,
+      "max-length": 6,
+      "format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"],
+ },
+
+"memory": {
+  "format": " {percentage}%"
+},
+
+ "mango/window": {
+    "format": "( {app_id} )",
+    "icon": true,
+    "icon-size": 16
+},
+
+"temperature": {
+  "format": " {temperatureC}°C",            
+  "format-critical": " {temperatureC}°C",
+  "interval": 1,
+  "critical-threshold": 80,
+  "on-click": "kitty --hold sh -c btop",
+ },
+
+"pulseaudio": {
+  "format": "{icon} {volume}%",
+  "format-bluetooth":"󰂰",
+  "format-muted": "<span font='12'></span>",
+  "format-icons": {
+    "headphones": "",
+    "bluetooth": "󰥰",
+    "handsfree": "",
+    "headset": "󱡬",
+    "phone": "",
+    "portable": "",
+    "car": "",
+    "default": ["","",""]
+  },
+  "scroll-step": 5.0,
+  "max-volume": 110.0,
+  "justify": "center",
+  "on-click": "pavucontrol",
+  "tooltip-format": "{icon}  {volume}%"
+},
+
+"jack": {
+    "format": "{} 󱎔",
+    "format-xrun": "{xruns} xruns",
+    "format-disconnected": "DSP off",
+    "realtime": true
+},
+
+"tray": {
+    "icon-size": 14,
+    "spacing": 10
+},
+
+"upower": {
+    "show-icon": false,
+    "hide-if-empty": true,
+    "tooltip": true,
+    "tooltip-spacing": 20
+},
+
+  "custom/powerDraw": {
+    "format": "{}",
+    "interval": 1,
+    "exec": "~/.config/waybar/scripts/powerdraw.sh",
+    "return-type": "json"
+  },
+
+  "custom/power": {
+        "format": " ",
+        "on-click": "mmsg dispatch quit && loginctl terminate-session $XDG_SESSION_ID",
+        "tooltip": false
+    },
+
+   "mango/language": {
+        "format": "{short}",
+        "on-click": "hyprctl switchxkblayout logitech-usb-keyboard next",
+        "format-en": "EN",
+        "format-ru": "RU",
+        "format-lv": "LV",
+	"format-de": "DE",
+   }
+
+}
+

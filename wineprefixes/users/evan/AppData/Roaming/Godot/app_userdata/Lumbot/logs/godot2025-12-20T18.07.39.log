@@ -1,0 +1,87 @@
+Godot Engine v3.6.2.stable.official.3cd3caab6 - https://godotengine.org
+OpenGL ES 2.0 Renderer: NVIDIA GeForce GTX 1050 Ti
+ 
+ERROR: Condition "err" is true. Returned: err
+   at: load_source_code (modules/gdscript/gdscript.cpp:822) - Condition "err" is true. Returned: err
+ERROR: Cannot load source code from file 'res://addons/silent_wolf/Auth/Auth.gd'.
+   at: load (modules/gdscript/gdscript.cpp:2240) - Condition "err != OK" is true. Returned: RES()
+ERROR: Failed loading resource: res://addons/silent_wolf/Auth/Auth.gd. Make sure resources have been imported by opening the project in the editor at least once.
+   at: _load (core/io/resource_loader.cpp:283) - Condition "found" is true. Returned: RES()
+ERROR: (Node not found: "/root/World/gameworld/player" (absolute path attempted from "/root/World/blueprints").)
+   at: get_node (scene/main/node.cpp:1510) - Method failed. Returning: nullptr
+ERROR: (Node not found: "sfx" (relative to "/root/World").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+WARNING: Octahedral compression cannot be used to compress a zero-length vector, please use normalized normal values or disable octahedral compression
+   at: norm_to_oct (servers/visual_server.cpp:347) - Octahedral compression cannot be used to compress a zero-length vector, please use normalized normal values or disable octahedral compression
+Connected with protocol: 
+ERROR: (Node not found: "/root/World/embed" (absolute path attempted from "/root/World/settings/settingsmenu/tabs/data/confirmwipe").)
+   at: get_node (scene/main/node.cpp:1510) - Method failed. Returning: nullptr
+ERROR: (Node not found: "/root/World/embed" (absolute path attempted from "/root/World/settings/settingsmenu/tabs/data/confirm/wipedata").)
+   at: get_node (scene/main/node.cpp:1510) - Method failed. Returning: nullptr
+ERROR: (Node not found: "embed/tree/tdframe/tdrender/blank" (relative to "World").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: setup_local_to_scene (scene/main/viewport.cpp:72) - Condition "!vpn" is true.
+ERROR: (Node not found: "map/movecontainer/viewport/playercam" (relative to "map2").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: setup_local_to_scene (scene/main/viewport.cpp:72) - Condition "!vpn" is true.
+ERROR: Couldn't form plane from Brush A face.
+   at: update_faces (modules/csg/csg.cpp:1392) - Condition "plane_a.normal == Vector3()" is true.
+ERROR: Couldn't form plane from Brush A face.
+   at: update_faces (modules/csg/csg.cpp:1392) - Condition "plane_a.normal == Vector3()" is true.
+ERROR: Couldn't form plane from Brush A face.
+   at: update_faces (modules/csg/csg.cpp:1392) - Condition "plane_a.normal == Vector3()" is true.
+ERROR: Couldn't form plane from Brush A face.
+   at: update_faces (modules/csg/csg.cpp:1392) - Condition "plane_a.normal == Vector3()" is true.
+ERROR: (Node not found: "../../housedoor3" (relative to "/root/World/gameworld/temp/main/savannah/town/borough2/building2/housedoor4/door").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../../housedoor3" (relative to "/root/World/gameworld/temp/main/savannah/town/borough2/building2/housedoor4/door/bit2").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../../housedoor3" (relative to "/root/World/gameworld/temp/main/savannah/town/borough2/building2/housedoor4/door/bit").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../../housedoor3" (relative to "/root/World/gameworld/temp/main/savannah/town/borough2/building2/housedoor4/door/handle").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../../housedoor3" (relative to "/root/World/gameworld/temp/main/savannah/town/borough2/building2/housedoor4/door/handle2").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../housedoor3" (relative to "/root/World/gameworld/temp/main/savannah/town/borough2/building2/housedoor4/interact").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "achievements" (relative to "/root/World/profile").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "items" (relative to "/root/World/achievements").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: Couldn't form plane from Brush A face.
+   at: update_faces (modules/csg/csg.cpp:1392) - Condition "plane_a.normal == Vector3()" is true.
+ERROR: Couldn't form plane from Brush A face.
+   at: update_faces (modules/csg/csg.cpp:1392) - Condition "plane_a.normal == Vector3()" is true.
+ERROR: Couldn't form plane from Brush A face.
+   at: update_faces (modules/csg/csg.cpp:1392) - Condition "plane_a.normal == Vector3()" is true.
+ERROR: Couldn't form plane from Brush A face.
+   at: update_faces (modules/csg/csg.cpp:1392) - Condition "plane_a.normal == Vector3()" is true.
+ERROR: (Node not found: "../../housedoor3" (relative to "/root/World/gameworld/main/savannah/town/borough2/building2/housedoor4/door").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../../housedoor3" (relative to "/root/World/gameworld/main/savannah/town/borough2/building2/housedoor4/door/bit2").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../../housedoor3" (relative to "/root/World/gameworld/main/savannah/town/borough2/building2/housedoor4/door/bit").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../../housedoor3" (relative to "/root/World/gameworld/main/savannah/town/borough2/building2/housedoor4/door/handle").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../../housedoor3" (relative to "/root/World/gameworld/main/savannah/town/borough2/building2/housedoor4/door/handle2").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../housedoor3" (relative to "/root/World/gameworld/main/savannah/town/borough2/building2/housedoor4/interact").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+Connected with protocol: 
+!metadata.empty(): False
+get_scores_by_player, player_name = unix
+ldboard_name: main
+json: [JSONParseResult:43218]
+1
+dbEnabled
+ERROR: Error calling method from signal 'tree_exiting': 'Node2D(World.gd)::quit': Method not found..
+   at: emit_signal (core/object.cpp:1247) - Error calling method from signal 'tree_exiting': 'Node2D(World.gd)::quit': Method not found..
+WARNING: ObjectDB instances leaked at exit (run with --verbose for details).
+   at: cleanup (core/object.cpp:2077) - ObjectDB instances leaked at exit (run with --verbose for details).
+ERROR: Resources still in use at exit (run with --verbose for details).
+   at: clear (core/resource.cpp:417) - Resources still in use at exit (run with --verbose for details).
+ERROR: There are still MemoryPool allocs in use at exit!
+   at: cleanup (core/pool_vector.cpp:63) - Condition "allocs_used > 0" is true.

@@ -1,0 +1,54 @@
+<Stats deaths="152" kills="39" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_explosion" value="10" >
+    </E>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="11" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="6" >
+    </E>
+    <E key="death_ghost | $damage_curse" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="9" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="1" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="12" >
+    </E>
+    <E key="player | $damage_electricity" value="5" >
+    </E>
+    <E key="player | $damage_explosion" value="16" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="2" >
+    </E>
+    <E key="player | $damage_ice" value="4" >
+    </E>
+    <E key="player | $damage_projectile" value="63" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="2" >
+    </E>
+    <E key="worm_tiny | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="fish_large" value="1" >
+    </E>
+    <E key="iceskull" value="2" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="rat" value="31" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+  </kill_map>
+</Stats>

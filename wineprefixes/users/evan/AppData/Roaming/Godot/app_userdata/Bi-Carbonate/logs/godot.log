@@ -1,0 +1,22 @@
+Godot Engine v3.6.2.stable.official.3cd3caab6 - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce GTX 1050 Ti
+Async. shader compilation: OFF
+ 
+ERROR: The passed Node must be an instance of CollisionObject.
+   at: add_exception (scene/3d/ray_cast.cpp:238) - Condition "!co" is true.
+ERROR: No loader found for resource: C:/Users/E/Downloads/robot 64like/Sprite/grass.png.
+   at: _load (core/io/resource_loader.cpp:291) - Method failed. Returning: RES()
+ERROR: Can't load dependency: C:/Users/E/Downloads/robot 64like/Sprite/grass.png.
+   at: poll (core/io/resource_format_binary.cpp:628) - Method failed. Returning: error
+ERROR: Failed to load resource 'res://.import/hubwriver.obj-1430a1a734878089ed3617ffaa5ff441.mesh'.
+   at: load (core/io/resource_loader.cpp:219) - Condition "err != OK" is true. Returned: RES()
+ERROR: Failed loading resource: res://.import/hubwriver.obj-1430a1a734878089ed3617ffaa5ff441.mesh. Make sure resources have been imported by opening the project in the editor at least once.
+   at: _load (core/io/resource_loader.cpp:283) - Condition "found" is true. Returned: RES()
+ERROR: Failed loading resource: res://Models/hubwriver.obj. Make sure resources have been imported by opening the project in the editor at least once.
+   at: _load (core/io/resource_loader.cpp:283) - Condition "found" is true. Returned: RES()
+ERROR: res://Levels/Hub5.tscn:13 - Parse Error: [ext_resource] referenced nonexistent resource at: res://Models/hubwriver.obj
+   at: poll (scene/resources/resource_format_text.cpp:412) - res://Levels/Hub5.tscn:13 - Parse Error: [ext_resource] referenced nonexistent resource at: res://Models/hubwriver.obj
+ERROR: Failed to load resource 'res://Levels/Hub5.tscn'.
+   at: load (core/io/resource_loader.cpp:219) - Condition "err != OK" is true. Returned: RES()
+ERROR: Failed loading resource: res://Levels/Hub5.tscn. Make sure resources have been imported by opening the project in the editor at least once.
+   at: _load (core/io/resource_loader.cpp:283) - Condition "found" is true. Returned: RES()

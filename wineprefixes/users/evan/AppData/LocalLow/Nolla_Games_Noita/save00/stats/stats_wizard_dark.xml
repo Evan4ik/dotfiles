@@ -1,0 +1,24 @@
+<Stats deaths="8" kills="8" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+  </kill_map>
+</Stats>

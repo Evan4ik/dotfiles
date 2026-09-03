@@ -1,0 +1,62 @@
+<Stats deaths="110" kills="29" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="9" >
+    </E>
+    <E key="NULL | $damage_ice" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="9" >
+    </E>
+    <E key="death_ghost | $damage_curse" value="3" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="6" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="2" >
+    </E>
+    <E key="iceskull | $damage_ice" value="1" >
+    </E>
+    <E key="iceskull | $damage_melee" value="1" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="7" >
+    </E>
+    <E key="player | $damage_electricity" value="4" >
+    </E>
+    <E key="player | $damage_explosion" value="9" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="42" >
+    </E>
+    <E key="rat | $damage_melee" value="2" >
+    </E>
+    <E key="scavenger_smg | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="1" >
+    </E>
+    <E key="worm_tiny | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="egg_monster" value="1" >
+    </E>
+    <E key="fish_large" value="2" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="rat" value="24" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+  </kill_map>
+</Stats>

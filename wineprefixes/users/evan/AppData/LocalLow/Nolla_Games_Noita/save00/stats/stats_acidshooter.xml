@@ -1,0 +1,20 @@
+<Stats deaths="7" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="2" >
+    </E>
+    <E key="drone_physics | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="rat" value="1" >
+    </E>
+  </kill_map>
+</Stats>

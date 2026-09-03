@@ -1,0 +1,506 @@
+﻿2026-05-19 15:25:32.797   Log opened. (Time zone: UTC+03:00)
+2026-05-19 15:25:32.797   Setup version: Inno Setup version 5.6.1 (u)
+2026-05-19 15:25:32.797   Original Setup EXE: Z:\home\evan\qBits\game-barony-(89881)\setup_barony_myths__outcasts_v5.0.2_(64bit)_(89881).exe
+2026-05-19 15:25:32.797   Setup command line: /SL5="$30172,5245756,192512,Z:\home\evan\qBits\game-barony-(89881)\setup_barony_myths__outcasts_v5.0.2_(64bit)_(89881).exe" 
+2026-05-19 15:25:32.797   Windows version: 10.0.19045  (NT platform: Yes)
+2026-05-19 15:25:32.797   64-bit Windows: Yes
+2026-05-19 15:25:32.797   Processor architecture: x64
+2026-05-19 15:25:32.797   User privileges: Administrative
+2026-05-19 15:25:32.798   64-bit install mode: No
+2026-05-19 15:25:34.317   Created temporary directory: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp
+2026-05-19 15:25:34.324   -- DLL function import --
+2026-05-19 15:25:34.324   Function name: GetDriveTypeW
+2026-05-19 15:25:34.324   DLL name: kernel32.dll
+2026-05-19 15:25:34.324   Dest DLL name: kernel32.dll
+2026-05-19 15:25:34.324   Importing the DLL function.
+2026-05-19 15:25:34.324   Failed to import the DLL function (0).
+2026-05-19 15:25:34.324   -- DLL function import --
+2026-05-19 15:25:34.324   Function name: GetLogicalDriveStringsW
+2026-05-19 15:25:34.324   DLL name: kernel32.dll
+2026-05-19 15:25:34.324   Dest DLL name: kernel32.dll
+2026-05-19 15:25:34.324   Importing the DLL function.
+2026-05-19 15:25:34.324   Failed to import the DLL function (0).
+2026-05-19 15:25:34.324   -- DLL function import --
+2026-05-19 15:25:34.324   Function name: MsiQueryProductStateW
+2026-05-19 15:25:34.324   DLL name: msi.dll
+2026-05-19 15:25:34.324   Dest DLL name: msi.dll
+2026-05-19 15:25:34.324   Importing the DLL function.
+2026-05-19 15:25:34.370   Failed to import the DLL function (0).
+2026-05-19 15:25:34.370   -- DLL function import --
+2026-05-19 15:25:34.370   Function name: KillTimer
+2026-05-19 15:25:34.370   DLL name: user32.dll
+2026-05-19 15:25:34.370   Dest DLL name: user32.dll
+2026-05-19 15:25:34.370   Importing the DLL function.
+2026-05-19 15:25:34.370   Failed to import the DLL function (0).
+2026-05-19 15:25:34.370   -- DLL function import --
+2026-05-19 15:25:34.370   Function name: wrapcallback
+2026-05-19 15:25:34.370   DLL name: {tmp}\innocallback.dll
+2026-05-19 15:25:34.370   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\innocallback.dll
+2026-05-19 15:25:34.370   Importing the DLL function.
+2026-05-19 15:25:34.370   Failed to import the DLL function (0).
+2026-05-19 15:25:34.370   -- DLL function import --
+2026-05-19 15:25:34.370   Function name: wrapcallback
+2026-05-19 15:25:34.370   DLL name: files:innocallback.dll
+2026-05-19 15:25:34.370   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\innocallback.dll
+2026-05-19 15:25:34.378   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\innocallback.dll
+2026-05-19 15:25:34.378   Importing the DLL function.
+2026-05-19 15:25:34.380   Failed to import the DLL function (0).
+2026-05-19 15:25:34.380   -- DLL function import --
+2026-05-19 15:25:34.380   Function name: wrapcallback
+2026-05-19 15:25:34.380   DLL name: files:innocallback.dll
+2026-05-19 15:25:34.380   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\innocallback.dll
+2026-05-19 15:25:34.380   Importing the DLL function.
+2026-05-19 15:25:34.380   Failed to import the DLL function (0).
+2026-05-19 15:25:34.380   -- DLL function import --
+2026-05-19 15:25:34.380   Function name: ShellExecuteExW
+2026-05-19 15:25:34.380   DLL name: shell32.dll
+2026-05-19 15:25:34.380   Dest DLL name: shell32.dll
+2026-05-19 15:25:34.380   Importing the DLL function.
+2026-05-19 15:25:34.380   Failed to import the DLL function (0).
+2026-05-19 15:25:34.380   -- DLL function import --
+2026-05-19 15:25:34.380   Function name: WaitForSingleObject
+2026-05-19 15:25:34.380   DLL name: kernel32.dll
+2026-05-19 15:25:34.380   Dest DLL name: kernel32.dll
+2026-05-19 15:25:34.380   Importing the DLL function.
+2026-05-19 15:25:34.380   Failed to import the DLL function (0).
+2026-05-19 15:25:34.380   -- DLL function import --
+2026-05-19 15:25:34.380   Function name: TerminateProcess
+2026-05-19 15:25:34.380   DLL name: kernel32.dll
+2026-05-19 15:25:34.380   Dest DLL name: kernel32.dll
+2026-05-19 15:25:34.380   Importing the DLL function.
+2026-05-19 15:25:34.380   Failed to import the DLL function (0).
+2026-05-19 15:25:34.380   -- DLL function import --
+2026-05-19 15:25:34.380   Function name: GetExitCodeProcess
+2026-05-19 15:25:34.380   DLL name: kernel32.dll
+2026-05-19 15:25:34.380   Dest DLL name: kernel32.dll
+2026-05-19 15:25:34.380   Importing the DLL function.
+2026-05-19 15:25:34.380   Failed to import the DLL function (0).
+2026-05-19 15:25:34.380   -- DLL function import --
+2026-05-19 15:25:34.380   Function name: AddFontResourceA
+2026-05-19 15:25:34.380   DLL name: gdi32.dll
+2026-05-19 15:25:34.380   Dest DLL name: gdi32.dll
+2026-05-19 15:25:34.380   Importing the DLL function.
+2026-05-19 15:25:34.380   Failed to import the DLL function (0).
+2026-05-19 15:25:34.380   -- DLL function import --
+2026-05-19 15:25:34.380   Function name: RemoveFontResourceA
+2026-05-19 15:25:34.380   DLL name: gdi32.dll
+2026-05-19 15:25:34.380   Dest DLL name: gdi32.dll
+2026-05-19 15:25:34.380   Importing the DLL function.
+2026-05-19 15:25:34.380   Failed to import the DLL function (0).
+2026-05-19 15:25:34.380   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: wrapcallback
+2026-05-19 15:25:34.381   DLL name: {tmp}\innocallback.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\innocallback.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnCreate
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnRefresh
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnGetChecked
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnSetChecked
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnSetText
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnSetVisibility
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnGetEnabled
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnSetEnabled
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnSetFont
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnSetFontColor
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnSetEvent
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnSetCursor
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnSetPosition
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: BtnGetPosition
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: GetSysCursorHandle
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.381   Importing the DLL function.
+2026-05-19 15:25:34.381   Failed to import the DLL function (0).
+2026-05-19 15:25:34.381   -- DLL function import --
+2026-05-19 15:25:34.381   Function name: ImgLoad
+2026-05-19 15:25:34.381   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.381   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: ImgSetPosition
+2026-05-19 15:25:34.382   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.382   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: ImgGetPosition
+2026-05-19 15:25:34.382   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.382   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: ImgRelease
+2026-05-19 15:25:34.382   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.382   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: ImgSetVisibility
+2026-05-19 15:25:34.382   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.382   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: ImgGetVisibility
+2026-05-19 15:25:34.382   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.382   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: ImgApplyChanges
+2026-05-19 15:25:34.382   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.382   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: gdipShutdown
+2026-05-19 15:25:34.382   DLL name: {tmp}\botva2.dll
+2026-05-19 15:25:34.382   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: SetTimer
+2026-05-19 15:25:34.382   DLL name: user32.dll
+2026-05-19 15:25:34.382   Dest DLL name: user32.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: SetWindowLongA
+2026-05-19 15:25:34.382   DLL name: user32.dll
+2026-05-19 15:25:34.382   Dest DLL name: user32.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: wrapcallback
+2026-05-19 15:25:34.382   DLL name: {tmp}\innocallback.dll
+2026-05-19 15:25:34.382   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\innocallback.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: CallWindowProcA
+2026-05-19 15:25:34.382   DLL name: user32.dll
+2026-05-19 15:25:34.382   Dest DLL name: user32.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: GetTickCount
+2026-05-19 15:25:34.382   DLL name: kernel32
+2026-05-19 15:25:34.382   Dest DLL name: kernel32
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: ShowWindow
+2026-05-19 15:25:34.382   DLL name: user32.dll
+2026-05-19 15:25:34.382   Dest DLL name: user32.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: SendMessageTimeoutW
+2026-05-19 15:25:34.382   DLL name: user32.dll
+2026-05-19 15:25:34.382   Dest DLL name: user32.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.382   Function name: ScreenToClient
+2026-05-19 15:25:34.382   DLL name: user32.dll
+2026-05-19 15:25:34.382   Dest DLL name: user32.dll
+2026-05-19 15:25:34.382   Importing the DLL function.
+2026-05-19 15:25:34.382   Failed to import the DLL function (0).
+2026-05-19 15:25:34.382   -- DLL function import --
+2026-05-19 15:25:34.383   Function name: GetCursorPos
+2026-05-19 15:25:34.383   DLL name: user32.dll
+2026-05-19 15:25:34.383   Dest DLL name: user32.dll
+2026-05-19 15:25:34.383   Importing the DLL function.
+2026-05-19 15:25:34.383   Failed to import the DLL function (0).
+2026-05-19 15:25:34.383   -- DLL function import --
+2026-05-19 15:25:34.383   Function name: GetAncestor
+2026-05-19 15:25:34.383   DLL name: user32.dll
+2026-05-19 15:25:34.383   Dest DLL name: user32.dll
+2026-05-19 15:25:34.383   Importing the DLL function.
+2026-05-19 15:25:34.383   Failed to import the DLL function (0).
+2026-05-19 15:25:34.383   -- DLL function import --
+2026-05-19 15:25:34.383   Function name: DestroyWindow
+2026-05-19 15:25:34.383   DLL name: user32.dll
+2026-05-19 15:25:34.383   Dest DLL name: user32.dll
+2026-05-19 15:25:34.383   Importing the DLL function.
+2026-05-19 15:25:34.383   Failed to import the DLL function (0).
+2026-05-19 15:25:34.383   -- DLL function import --
+2026-05-19 15:25:34.383   Function name: md5thread
+2026-05-19 15:25:34.383   DLL name: {tmp}\crcdll.dll
+2026-05-19 15:25:34.383   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\crcdll.dll
+2026-05-19 15:25:34.383   Importing the DLL function.
+2026-05-19 15:25:34.383   Failed to import the DLL function (0).
+2026-05-19 15:25:34.383   -- DLL function import --
+2026-05-19 15:25:34.383   Function name: end_md5thread
+2026-05-19 15:25:34.383   DLL name: {tmp}\crcdll.dll
+2026-05-19 15:25:34.383   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\crcdll.dll
+2026-05-19 15:25:34.383   Importing the DLL function.
+2026-05-19 15:25:34.383   Failed to import the DLL function (0).
+2026-05-19 15:25:34.383   -- DLL function import --
+2026-05-19 15:25:34.383   Function name: is_ignore_pressed
+2026-05-19 15:25:34.383   DLL name: {tmp}\crcdll.dll
+2026-05-19 15:25:34.383   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\crcdll.dll
+2026-05-19 15:25:34.383   Importing the DLL function.
+2026-05-19 15:25:34.383   Failed to import the DLL function (0).
+2026-05-19 15:25:34.383   -- DLL function import --
+2026-05-19 15:25:34.383   Function name: signed_publisher
+2026-05-19 15:25:34.383   DLL name: {tmp}\crcdll.dll
+2026-05-19 15:25:34.383   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\crcdll.dll
+2026-05-19 15:25:34.383   Importing the DLL function.
+2026-05-19 15:25:34.383   Failed to import the DLL function (0).
+2026-05-19 15:25:34.383   -- DLL function import --
+2026-05-19 15:25:34.383   Function name: get_parts_crc
+2026-05-19 15:25:34.383   DLL name: {tmp}\crcdll.dll
+2026-05-19 15:25:34.383   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\crcdll.dll
+2026-05-19 15:25:34.383   Importing the DLL function.
+2026-05-19 15:25:34.383   Failed to import the DLL function (0).
+2026-05-19 15:25:34.383   -- DLL function import --
+2026-05-19 15:25:34.383   Function name: is_file_locked
+2026-05-19 15:25:34.383   DLL name: {tmp}\crcdll.dll
+2026-05-19 15:25:34.383   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\crcdll.dll
+2026-05-19 15:25:34.383   Importing the DLL function.
+2026-05-19 15:25:34.383   Failed to import the DLL function (0).
+2026-05-19 15:25:34.383   -- DLL function import --
+2026-05-19 15:25:34.383   Function name: SetFileAttributesA
+2026-05-19 15:25:34.383   DLL name: kernel32.dll
+2026-05-19 15:25:34.383   Dest DLL name: kernel32.dll
+2026-05-19 15:25:34.383   Importing the DLL function.
+2026-05-19 15:25:34.383   Failed to import the DLL function (0).
+2026-05-19 15:25:34.384   -- DLL function import --
+2026-05-19 15:25:34.384   Function name: PeekMessageA
+2026-05-19 15:25:34.384   DLL name: user32.dll
+2026-05-19 15:25:34.384   Dest DLL name: user32.dll
+2026-05-19 15:25:34.384   Importing the DLL function.
+2026-05-19 15:25:34.384   Failed to import the DLL function (0).
+2026-05-19 15:25:34.384   -- DLL function import --
+2026-05-19 15:25:34.384   Function name: TranslateMessage
+2026-05-19 15:25:34.384   DLL name: user32.dll
+2026-05-19 15:25:34.384   Dest DLL name: user32.dll
+2026-05-19 15:25:34.384   Importing the DLL function.
+2026-05-19 15:25:34.384   Failed to import the DLL function (0).
+2026-05-19 15:25:34.384   -- DLL function import --
+2026-05-19 15:25:34.384   Function name: DispatchMessageA
+2026-05-19 15:25:34.384   DLL name: user32.dll
+2026-05-19 15:25:34.384   Dest DLL name: user32.dll
+2026-05-19 15:25:34.384   Importing the DLL function.
+2026-05-19 15:25:34.384   Failed to import the DLL function (0).
+2026-05-19 15:25:34.384   -- DLL function import --
+2026-05-19 15:25:34.384   Function name: unzlib_file
+2026-05-19 15:25:34.384   DLL name: setup:files:uninstall.dll
+2026-05-19 15:25:34.384   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\uninstall.dll
+2026-05-19 15:25:34.422   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\uninstall.dll
+2026-05-19 15:25:34.422   Importing the DLL function.
+2026-05-19 15:25:34.427   Failed to import the DLL function (0).
+2026-05-19 15:25:34.427   -- DLL function import --
+2026-05-19 15:25:34.427   Function name: unzlib_merge
+2026-05-19 15:25:34.427   DLL name: setup:files:uninstall.dll
+2026-05-19 15:25:34.427   Dest DLL name: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\uninstall.dll
+2026-05-19 15:25:34.427   Importing the DLL function.
+2026-05-19 15:25:34.427   Failed to import the DLL function (0).
+2026-05-19 15:25:34.428   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\botva2.dll
+2026-05-19 15:25:34.431   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\crcdll.dll
+2026-05-19 15:25:34.437   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\EULA.txt
+2026-05-19 15:25:34.439   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\innoSetupEula.txt
+2026-05-19 15:25:34.441   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\OpenSans-Regular.ttf
+2026-05-19 15:25:34.451   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\OpenSans-Semibold.ttf
+2026-05-19 15:25:34.504   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\gog_installer_background.jpg
+2026-05-19 15:25:34.534   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\md5log.ini
+2026-05-19 15:25:34.535   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\BigOK.png
+2026-05-19 15:25:34.535   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\BigFail.png
+2026-05-19 15:25:34.536   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\BigWarn.png
+2026-05-19 15:25:34.536   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\bottombar.png
+2026-05-19 15:25:34.537   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\btn_browse.png
+2026-05-19 15:25:34.537   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\btn_skip.png
+2026-05-19 15:25:34.541   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\btn_continue.png
+2026-05-19 15:25:34.541   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\btn_close.png
+2026-05-19 15:25:34.542   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\btn_exit.png
+2026-05-19 15:25:34.542   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\btn_launch.png
+2026-05-19 15:25:34.543   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\btn_options.png
+2026-05-19 15:25:34.544   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\btn_md5.png
+2026-05-19 15:25:34.545   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\btn_save_as.png
+2026-05-19 15:25:34.546   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\btn_start.png
+2026-05-19 15:25:34.547   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\error.png
+2026-05-19 15:25:34.547   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\error_icon.png
+2026-05-19 15:25:34.548   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\EULAAccepted.png
+2026-05-19 15:25:34.549   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\EULAShow.png
+2026-05-19 15:25:34.549   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\GOG_new.png
+2026-05-19 15:25:34.550   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\ok.png
+2026-05-19 15:25:34.550   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\progress_center.png
+2026-05-19 15:25:34.551   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\progress_left.png
+2026-05-19 15:25:34.551   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\progress_right.png
+2026-05-19 15:25:34.552   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\track_center.png
+2026-05-19 15:25:34.552   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\track_left.png
+2026-05-19 15:25:34.553   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\track_right.png
+2026-05-19 15:25:34.553   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\trackbar_btn.png
+2026-05-19 15:25:34.554   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\trackbar_back.png
+2026-05-19 15:25:34.867   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\slideshow.ini
+2026-05-19 15:25:34.867   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\1454319762_english.jpg
+2026-05-19 15:25:34.912   Extracting temporary file: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\1207658970_english.jpg
+2026-05-19 15:25:35.151   Current Page: Welcome
+2026-05-19 15:25:37.243   Current Page: PostUnpackPage
+2026-05-19 15:25:37.249   Current Page: Installing
+2026-05-19 15:25:37.255   max steps: 7
+2026-05-19 15:25:37.270   Starting the installation process.
+2026-05-19 15:25:37.273   Setting permissions on directory: Z:\home\evan\qBits\Barony
+2026-05-19 15:25:37.274   Directory for uninstall files: Z:\home\evan\qBits\Barony
+2026-05-19 15:25:37.274   Creating new uninstall log: Z:\home\evan\qBits\Barony\unins001.dat
+2026-05-19 15:25:37.275   -- File entry --
+2026-05-19 15:25:37.276   Dest filename: Z:\home\evan\qBits\Barony\unins001.exe
+2026-05-19 15:25:37.277   Time stamp of our file: 2026-05-19 15:25:32.544
+2026-05-19 15:25:37.277   Installing the file.
+2026-05-19 15:25:37.279   Uninstaller requires administrator: Yes
+2026-05-19 15:25:37.279   Successfully installed the file.
+2026-05-19 15:25:37.280   -- File entry --
+2026-05-19 15:25:37.280   Dest filename: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\2c\5f\2c5f0bdc9111caad703c6fd7644fe524
+2026-05-19 15:25:37.280   Time stamp of our file: 2023-07-06 09:18:58.000
+2026-05-19 15:25:37.280   Installing the file.
+2026-05-19 15:25:37.280   Creating directory: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\2c
+2026-05-19 15:25:37.281   Creating directory: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\2c\5f
+2026-05-19 15:25:37.289   Successfully installed the file.
+2026-05-19 15:25:37.296   -- File entry --
+2026-05-19 15:25:37.296   Dest filename: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\b3\a4\b3a466dce9cb8cfd54d1b8d2f28d811d
+2026-05-19 15:25:37.296   Time stamp of our file: 2026-04-04 08:31:16.000
+2026-05-19 15:25:37.296   Installing the file.
+2026-05-19 15:25:37.296   Creating directory: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\b3
+2026-05-19 15:25:37.296   Creating directory: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\b3\a4
+2026-05-19 15:25:37.297   Successfully installed the file.
+2026-05-19 15:25:37.310   -- File entry --
+2026-05-19 15:25:37.310   Dest filename: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\88\60\8860ad5b149d843eabe836b5b0c553a2
+2026-05-19 15:25:37.310   Time stamp of our file: 2026-04-04 08:31:14.000
+2026-05-19 15:25:37.310   Installing the file.
+2026-05-19 15:25:37.310   Creating directory: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\88
+2026-05-19 15:25:37.310   Creating directory: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\88\60
+2026-05-19 15:25:37.311   Successfully installed the file.
+2026-05-19 15:25:37.328   -- File entry --
+2026-05-19 15:25:37.337   Dest filename: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\46\a0\46a04325424830501a0361d9fc7e6842
+2026-05-19 15:25:37.337   Time stamp of our file: 2026-04-04 08:30:54.000
+2026-05-19 15:25:37.337   Installing the file.
+2026-05-19 15:25:37.337   Creating directory: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\46
+2026-05-19 15:25:37.341   Creating directory: C:\users\evan\AppData\Local\Temp\is-7CLBC.tmp\46\a0
+2026-05-19 15:25:37.342   Successfully installed the file.
+2026-05-19 15:25:37.355   -- File entry --
+2026-05-19 15:25:37.356   Dest filename: Z:\home\evan\qBits\Barony\goggame-1754860718.ico
+2026-05-19 15:25:37.356   Time stamp of our file: 2026-04-04 08:34:18.000
+2026-05-19 15:25:37.356   Installing the file.
+2026-05-19 15:25:37.368   Successfully installed the file.
+2026-05-19 15:25:37.368   -- File entry --
+2026-05-19 15:25:37.368   Dest filename: Z:\home\evan\qBits\Barony\webcache.zip
+2026-05-19 15:25:37.368   Time stamp of our file: 2026-04-04 08:34:38.000
+2026-05-19 15:25:37.368   Dest file exists.
+2026-05-19 15:25:37.368   Skipping due to "onlyifdoesntexist" flag.
+2026-05-19 15:25:37.368   -- File entry --
+2026-05-19 15:25:37.368   Dest filename: C:\ProgramData\GOG.com\supportInstaller\uninstall.dll
+2026-05-19 15:25:37.368   Time stamp of our file: 2024-01-15 13:04:34.000
+2026-05-19 15:25:37.368   Dest file exists.
+2026-05-19 15:25:37.369   Time stamp of existing file: 2019-08-26 17:19:10.000
+2026-05-19 15:25:37.369   Version of our file: 1.3.8.10
+2026-05-19 15:25:37.371   Version of existing file: 1.4.0.13
+2026-05-19 15:25:37.371   Existing file is a newer version. Skipping.
+2026-05-19 15:25:37.371   -- Registry entry --
+2026-05-19 15:25:37.371   Key: HKEY_LOCAL_MACHINE\SOFTWARE\GOG.com\Games\1754860718
+2026-05-19 15:25:37.371   Value name: buildId
+2026-05-19 15:25:37.371   Creating or opening the key.
+2026-05-19 15:25:37.371   Creating or setting the value.
+2026-05-19 15:25:37.371   Successfully created or set the value.
+2026-05-19 15:25:37.371   -- Registry entry --
+2026-05-19 15:25:37.371   Key: HKEY_LOCAL_MACHINE\SOFTWARE\GOG.com\Games\1754860718
+2026-05-19 15:25:37.371   Value name: ver
+2026-05-19 15:25:37.371   Creating or opening the key.
+2026-05-19 15:25:37.371   Creating or setting the value.
+2026-05-19 15:25:37.371   Successfully created or set the value.
+2026-05-19 15:25:37.371   -- Registry entry --
+2026-05-19 15:25:37.371   Key: HKEY_LOCAL_MACHINE\SOFTWARE\GOG.com\Games\1754860718
+2026-05-19 15:25:37.371   Value name: lang_code
+2026-05-19 15:25:37.371   Creating or opening the key.
+2026-05-19 15:25:37.371   Creating or setting the value.
+2026-05-19 15:25:37.371   Successfully created or set the value.
+2026-05-19 15:25:37.371   -- Registry entry --
+2026-05-19 15:25:37.371   Key: HKEY_LOCAL_MACHINE\SOFTWARE\GOG.com\Games\1754860718
+2026-05-19 15:25:37.371   Value name: osbit
+2026-05-19 15:25:37.372   Creating or opening the key.
+2026-05-19 15:25:37.372   Creating or setting the value.
+2026-05-19 15:25:37.372   Successfully created or set the value.
+2026-05-19 15:25:37.372   Saving uninstall information.
+2026-05-19 15:25:37.372   Deleting any uninstall keys left over from previous installs
+2026-05-19 15:25:37.372   Creating new uninstall key: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\1754860718_is1
+2026-05-19 15:25:37.372   Writing uninstall key values.
+2026-05-19 15:25:37.378   Installation process succeeded.
+2026-05-19 15:25:38.060   Need to restart Windows? No
+2026-05-19 15:25:38.073   Current Page: Finished
+2026-05-19 15:25:38.073   Current Page: Finished
+2026-05-19 15:25:38.073   Current Page: Finished
+2026-05-19 15:25:39.415   Deinitializing Setup.
+2026-05-19 15:25:39.452   Log closed.

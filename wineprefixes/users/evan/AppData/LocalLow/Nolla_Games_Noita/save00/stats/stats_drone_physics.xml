@@ -1,0 +1,16 @@
+<Stats deaths="9" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="8" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="frog" value="2" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+  </kill_map>
+</Stats>

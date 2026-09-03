@@ -1,0 +1,32 @@
+Godot Engine v4.7.stable.official.5b4e0cb0f - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 580.173.02 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce GTX 1050 Ti
+
+WARNING: Failed to get SDR white level for adapterId: 0x00000000000003F4, id: 0
+   at: _get_sdr_white_level_for_hmonitor (platform/windows/display_server_windows.cpp:1708)
+res://scenes/main.tscn
+ERROR: Can't change this state while flushing queries. Use call_deferred() or set_deferred() to change monitoring state instead.
+   at: area_set_shape_disabled (modules/godot_physics_2d/godot_physics_server_2d.cpp:354)
+ERROR: Can't change this state while flushing queries. Use call_deferred() or set_deferred() to change monitoring state instead.
+   at: area_set_shape_disabled (modules/godot_physics_2d/godot_physics_server_2d.cpp:354)
+ERROR: Condition "p_pitch_scale <= 0.0" is true.
+   at: set_pitch_scale (scene/audio/audio_stream_player_internal.cpp:317)
+ERROR: Signal 'mouse_entered' is already connected to given callable 'Control(currentdigtool.gd)::hover' in that object.
+   at: connect (core/object/object.cpp:1561)
+ERROR: Signal 'mouse_exited' is already connected to given callable 'Control(currentdigtool.gd)::hover' in that object.
+   at: connect (core/object/object.cpp:1561)
+ERROR: Signal 'pressed' is already connected to given callable 'Control(currentdigtool.gd)::lockin' in that object.
+   at: connect (core/object/object.cpp:1561)
+ERROR: Can't change this state while flushing queries. Use call_deferred() or set_deferred() to change monitoring state instead.
+   at: area_set_shape_disabled (modules/godot_physics_2d/godot_physics_server_2d.cpp:354)
+ERROR: Can't change this state while flushing queries. Use call_deferred() or set_deferred() to change monitoring state instead.
+   at: area_set_shape_disabled (modules/godot_physics_2d/godot_physics_server_2d.cpp:354)
+ERROR: Can't change this state while flushing queries. Use call_deferred() or set_deferred() to change monitoring state instead.
+   at: area_set_shape_disabled (modules/godot_physics_2d/godot_physics_server_2d.cpp:354)
+ERROR: Condition "p_pitch_scale <= 0.0" is true.
+   at: set_pitch_scale (scene/audio/audio_stream_player_internal.cpp:317)
+ERROR: Signal 'mouse_entered' is already connected to given callable 'Control(currentdigtool.gd)::hover' in that object.
+   at: connect (core/object/object.cpp:1561)
+ERROR: Signal 'mouse_exited' is already connected to given callable 'Control(currentdigtool.gd)::hover' in that object.
+   at: connect (core/object/object.cpp:1561)
+ERROR: Signal 'pressed' is already connected to given callable 'Control(currentdigtool.gd)::lockin' in that object.
+   at: connect (core/object/object.cpp:1561)

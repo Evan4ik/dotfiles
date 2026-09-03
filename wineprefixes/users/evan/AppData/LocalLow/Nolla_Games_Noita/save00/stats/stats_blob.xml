@@ -1,0 +1,30 @@
+<Stats deaths="19" kills="9" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="7" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="ant | $damage_melee" value="1" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_glue | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="rat" value="5" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="zombie_weak" value="3" >
+    </E>
+  </kill_map>
+</Stats>

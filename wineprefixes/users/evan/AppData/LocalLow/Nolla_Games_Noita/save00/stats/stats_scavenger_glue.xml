@@ -1,0 +1,24 @@
+<Stats deaths="14" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="1" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="1" >
+    </E>
+    <E key="iceskull | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="8" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="blob" value="1" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+  </kill_map>
+</Stats>

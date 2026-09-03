@@ -1,0 +1,34 @@
+<Stats deaths="30" kills="8" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | $damage_water" value="10" >
+    </E>
+    <E key="NULL | damage from material: Water" value="7" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: mud" value="1" >
+    </E>
+    <E key="NULL | damage from material: swamp" value="2" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="4" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="frog" value="4" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

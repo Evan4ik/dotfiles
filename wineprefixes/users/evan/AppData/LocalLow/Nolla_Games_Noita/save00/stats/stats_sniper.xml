@@ -1,0 +1,48 @@
+<Stats deaths="46" kills="76" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="6" >
+    </E>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="3" >
+    </E>
+    <E key="chest_mimic | $damage_melee" value="1" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="2" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="10" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="2" >
+    </E>
+    <E key="player | $damage_ice" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="16" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="iceskull" value="8" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="rat" value="50" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="4" >
+    </E>
+    <E key="slimeshooter" value="8" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+  </kill_map>
+</Stats>

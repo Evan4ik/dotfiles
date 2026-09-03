@@ -1,0 +1,44 @@
+Godot Engine v3.3.stable.official - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce GTX 1050 Ti
+OpenGL ES Batching: ON
+ 
+**ERROR**: Can't change this state while flushing queries. Use call_deferred() or set_deferred() to change monitoring state instead.
+   At: servers/physics_2d/physics_2d_server_sw.cpp:724:body_set_shape_disabled() - Condition "body->get_space() && flushing_queries" is true.
+**ERROR**: Can't add child '@@19' to 'redButton', already has a parent 'redButton'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@20' to 'redButton', already has a parent 'redButton'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@21' to 'redButton', already has a parent 'redButton'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@22' to 'redButton', already has a parent 'redButton'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@23' to 'redButton', already has a parent 'redButton'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@24' to 'redButton', already has a parent 'redButton'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@25' to 'redButton', already has a parent 'redButton'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@26' to 'redButton', already has a parent 'redButton'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@27' to 'redButton', already has a parent 'redButton'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@18' to 'jacob', already has a parent 'jacob'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@28' to 'blueButton2', already has a parent 'blueButton2'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@29' to 'blueButton2', already has a parent 'blueButton2'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@30' to 'blueButton2', already has a parent 'blueButton2'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@31' to 'blueButton2', already has a parent 'blueButton2'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@32' to 'blueButton2', already has a parent 'blueButton2'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Can't add child '@@33' to 'blueButton2', already has a parent 'blueButton2'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**ERROR**: Resumed function 'music()' after yield, but script is gone. At script: res://scenes/MainMenu.gd:11
+   At: modules/gdscript/gdscript_function.cpp:1866:resume() - Method failed. Returning: Variant()
+**ERROR**: Can't add child '@@18' to 'jacob', already has a parent 'jacob'.
+   At: scene/main/node.cpp:1162:add_child() - Condition "p_child->data.parent" is true.
+**WARNING**: ObjectDB instances leaked at exit (run with --verbose for details).
+   At: core/object.cpp:2132:cleanup() - ObjectDB instances leaked at exit (run with --verbose for details).

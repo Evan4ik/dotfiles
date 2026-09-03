@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+while read file 
+do
+	fullpath="$(pwd)/$file"
+	case "$1" in
+	"w")
+		rm ~/.local/bg &&
+		ln -s "$file" ~/.local/bg &&
+		swaybg -i ~/.local/bg & disown &&
+		~/dox/updatepalette &&
+		notify-send "Wallpaper Changed" ;;
+	"q")
+		rm ~/.local/bg &&
+		ln -s "$file" ~/.local/bg &&
+		swaybg -i ~/.local/bg & disown &&
+		notify-send "Wallpaper Changed" ;;
+	esac
+done

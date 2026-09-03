@@ -1,0 +1,35 @@
+[main]
+font=JetBrainsMono-Light:size=10
+
+dpi-aware=yes
+pad=5x0
+
+[colors]
+foreground={{foreground | strip}}
+background={{color0 | darken(0.5) | strip}}
+#alpha=0.8
+
+# Cursor colors
+cursor={{background | strip}} {{foreground | strip}}
+
+# The basic 16 colors
+# black
+#[colors-dark]
+regular0={{color0 | strip}}
+regular1={{color1 | strip}}
+regular2={{color2 | strip}}
+regular3={{color3 | strip}}
+regular4={{color4 | strip}}
+regular5={{color5 | saturate(0.5) | strip}}
+regular6={{color6 | strip}}
+regular7={{color7 | strip}}
+
+#[colors-light]
+bright0={{color8 | strip}}
+bright1={{color9 | strip}}
+bright2={{color10 | strip}}
+bright3={{color11 | strip}}
+bright4={{color12 | strip}}
+bright5={{color13 | strip}}
+bright6={{color14 | strip}}
+bright7={{color15 | strip}}

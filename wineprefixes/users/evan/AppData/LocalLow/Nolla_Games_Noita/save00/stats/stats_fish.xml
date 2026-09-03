@@ -1,0 +1,20 @@
+<Stats deaths="77" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="necromancer_shop | $damage_explosion" value="5" >
+    </E>
+    <E key="necromancer_shop | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="4" >
+    </E>
+    <E key="player | $damage_projectile" value="6" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="workshop_areadamage | $damage_holy_mountains_curse" value="59" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

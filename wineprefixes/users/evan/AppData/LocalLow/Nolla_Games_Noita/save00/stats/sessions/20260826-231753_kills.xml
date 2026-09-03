@@ -1,0 +1,44 @@
+<Stats deaths="1" kills="55" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="7" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="bomb" value="1" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fish" value="3" >
+    </E>
+    <E key="frog" value="5" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="longleg" value="6" >
+    </E>
+    <E key="miner" value="2" >
+    </E>
+    <E key="miner_weak" value="9" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="shotgunner_weak" value="4" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="slimeshooter_weak" value="1" >
+    </E>
+    <E key="zombie" value="4" >
+    </E>
+    <E key="zombie_weak" value="4" >
+    </E>
+  </kill_map>
+</Stats>

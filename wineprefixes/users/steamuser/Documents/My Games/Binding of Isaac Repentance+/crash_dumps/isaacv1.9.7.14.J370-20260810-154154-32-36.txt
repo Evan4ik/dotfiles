@@ -1,0 +1,116 @@
+[INFO] - timeBeginPeriod( 1 )
+[INFO] - OpenGL version 4.6.0 NVIDIA 580.173.02
+[INFO] - GLSL version 4.60 NVIDIA
+[INFO] - Framebuffer ID: 2
+[INFO] - Renderbuffer ID: 1 size 1024x1024
+[INFO] - OpenAL DLL loaded from: Z:\home\evan\qBits\tboi\OpenAL32.dll
+[INFO] - OpenAL AL_VENDOR      : OpenAL Community
+[INFO] - OpenAL AL_RENDERER    : OpenAL Soft
+[INFO] - OpenAL AL_VERSION     : 1.1 ALSOFT 1.24.3
+[INFO] - OpenAL ALC_EXTENSIONS : ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_debug ALC_EXT_DEDICATED ALC_EXT_direct_context ALC_EXT_disconnect ALC_EXT_EFX ALC_EXT_thread_local_context ALC_SOFT_device_clock ALC_SOFT_HRTF ALC_SOFT_loopback ALC_SOFT_loopback_bformat ALC_SOFT_output_limiter ALC_SOFT_output_mode ALC_SOFT_pause_device ALC_SOFT_reopen_device ALC_SOFT_system_events
+[INFO] - Using XInput 1.4 
+[INFO] - Initializing theoraplayer with theora support.
+[INFO] - Initializing Theoraplayer Video Playback Library (2.0)
+  - libtheora version: Xiph.Org libtheora 1.2.0alpha 20100924 (Ptalarbvorm)
+  - libvorbis version: Xiph.Org libVorbis 1.3.4
+------------------------------------
+[INFO] - Changing number of worker threads to: 1
+[INFO] - Command Line: 
+[INFO] - 	Z:\home\evan\qBits\tboi\isaac-ng.exe
+[INFO] - Game Version: J370 
+[INFO] - Successfully reserved 1073741824 bytes of memory for Lua
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - ERR: cannot open resources/scripts/enums.lua: No such file or directory
+[INFO] - There was an error running the lua file: resources/scripts/enums.lua
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - ERR: cannot open resources/scripts/main.lua: No such file or directory
+[INFO] - There was an error running the lua file: resources/scripts/main.lua
+[INFO] - Binding of Isaac: Repentance+ v1.9.7.14.J370
+[ERROR] - Failed to open archive file 'resources/packed/animations.a'
+[ERROR] - Failed to open archive file 'resources/packed/config.a'
+[ERROR] - Failed to open archive file 'resources/packed/fonts.a'
+[ERROR] - Failed to open archive file 'resources/packed/graphics.a'
+[ERROR] - Failed to open archive file 'resources/packed/music.a'
+[ERROR] - Failed to open archive file 'resources/packed/rooms.a'
+[ERROR] - Failed to open archive file 'resources/packed/sfx.a'
+[ERROR] - Failed to open archive file 'resources/packed/videos.a'
+[ERROR] - Failed to open archive file 'resources/packed/afterbirth.a'
+[ERROR] - Failed to open archive file 'packed/afterbirthp.a'
+[ERROR] - Failed to open archive file 'packed/repentance_de.a'
+[ERROR] - Failed to open archive file 'packed/repentance_es.a'
+[ERROR] - Failed to open archive file 'packed/repentance_jp.a'
+[ERROR] - Failed to open archive file 'packed/repentance_kr.a'
+[ERROR] - Failed to open archive file 'packed/repentance_ru.a'
+[ERROR] - Failed to open archive file 'packed/repentance_zh.a'
+[ERROR] - Failed to open archive file 'packed/repentance_fr.a'
+[ERROR] - Failed to open archive file 'secret.a'
+[INFO] - load archives: 1 milliseconds
+[INFO] - Initialize ColorOffset Shader
+[INFO] - Failed to load vertex shader shaders/coloroffset.vs
+[INFO] - Initialize Pixelation Shader
+[INFO] - Failed to load vertex shader shaders/pixelation.vs
+[INFO] - Initialize Bloom Shader
+[INFO] - Failed to load vertex shader shaders/bloom.vs
+[INFO] - Initialize Color Correction Shader
+[INFO] - Failed to load vertex shader shaders/colorcorrection.vs
+[INFO] - Initialize HQ4X Shader
+[INFO] - Failed to load vertex shader shaders/hq4x.vs
+[INFO] - Initialize Shockwave Shader
+[INFO] - Failed to load vertex shader shaders/shockwave.vs
+[INFO] - Initialize OldTV Shader
+[INFO] - Failed to load vertex shader shaders/oldtv.vs
+[INFO] - Initialize Water Surface Shader
+[INFO] - Failed to load vertex shader shaders/water.vs
+[INFO] - Initialize Water Surface V2 Shader
+[INFO] - Failed to load vertex shader shaders/water_v2.vs
+[INFO] - Initialize Hallucination Shader
+[INFO] - Failed to load vertex shader shaders/hallucination.vs
+[INFO] - Initialize Colormod Shader
+[INFO] - Failed to load vertex shader shaders/colormod.vs
+[INFO] - Initialize Color Offset Champion Shader
+[INFO] - Failed to load vertex shader shaders/coloroffset_champion.vs
+[INFO] - Initialize Background Shader
+[INFO] - Failed to load vertex shader shaders/bg.vs
+[INFO] - Initialize Water Overlay Shader
+[INFO] - Failed to load vertex shader shaders/water_overlay.vs
+[INFO] - Initialize Color Offset Dogma Shader
+[INFO] - Failed to load vertex shader shaders/coloroffset_dogma.vs
+[INFO] - Initialize Color Offset Gold Shader
+[INFO] - Failed to load vertex shader shaders/coloroffset_gold.vs
+[INFO] - Initialize Dizzy Shader
+[INFO] - Failed to load vertex shader shaders/dizzy.vs
+[INFO] - Initialize Heat Wave Shader
+[INFO] - Failed to load vertex shader shaders/heat_wave.vs
+[INFO] - Initialize Mirror Shader
+[INFO] - Failed to load vertex shader shaders/mirror.vs
+[INFO] - Display Hz: 144, Target: 60.. disabling vsync for this session.
+[INFO] - Viewport: 960x540
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - [warn] SteamCloud is either not available or disabled in Options.ini.
+[INFO] - ERROR Could not open gfx/ui/ButtonPromptWidget.anm2
+[INFO] - AnmCache failed to load gfx/ui/ButtonPromptWidget.anm2
+[INFO] - [warn] AnmCache: cannot add reference to gfx/ui/ButtonPromptWidget.anm2
+[INFO] - ERROR Could not open gfx/ui/ButtonPromptWidget.anm2
+[INFO] - AnmCache failed to load gfx/ui/ButtonPromptWidget.anm2
+[INFO] - [warn] AnmCache: cannot add reference to gfx/ui/ButtonPromptWidget.anm2
+[INFO] - [warn] no animation named LeftPrompt
+[INFO] - [warn] no animation named RightPrompt
+[INFO] - begin list mods
+[INFO] - HQX4 size: 960x540
+[INFO] - ERROR Could not open gfx/ui/achievement/Achievements.anm2
+[INFO] - AnmCache failed to load gfx/ui/achievement/Achievements.anm2
+[INFO] - [warn] AnmCache: cannot add reference to gfx/ui/achievement/Achievements.anm2
+[INFO] - [warn] could not open costumes2.xml.
+[INFO] - [warn] could not open items_metadata.xml.
+[INFO] - [warn] could not open wisps.xml.
+[INFO] - [warn] could not open locusts.xml.
+[INFO] - [warn] could not open recipes.xml.
+[INFO] - Lua stack trace:
+[INFO] - Caught exception, writing minidump...
+[INFO] - Lua stack trace:
+[INFO] - Caught exception, writing minidump...

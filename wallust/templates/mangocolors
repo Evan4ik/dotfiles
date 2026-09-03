@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+sed -i -e "s/rootcolor=.*/rootcolor=0x{{color0 | strip}}FF /" -e \
+	"s/bordercolor=.*/bordercolor=0x{{foreground | saturate(0.15) | darken(0.85) | strip}}FF /"\
+	-e "s/dropcolor=.*/dropcolor=0x{{color2 | strip}}FF /"\
+	-e "s/splitcolor=.*/splitcolor=0x{{color9 | strip}}FF /"\
+	-e "s/focuscolor=.*/focuscolor=0x{{color14 | saturate(0.15) | lighten(0.15) | strip}}FF /"\
+	-e "s/maximizescreencolor=.*/maximizescreencolor=0x{{color10 | strip}}FF /"\
+	-e "s/urgentcolor=.*/urgentcolor=0x{{color1 | strip}}FF /"\
+	-e "s/scratchpadcolor=.*/scratchpadcolor=0x{{color2 | saturate(0.4) | strip}}FF /"\
+	-e "s/globalcolor=.*/globalcolor=0x{{color10 | saturate(0.85) | lighten(0.35) | strip}}FF /"\
+	-e "s/overlaycolor=.*/overlaycolor=0x{{color1 | lighten(0.75) | strip}}FF /" ~/.config/mango/config.conf

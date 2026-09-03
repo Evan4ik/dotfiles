@@ -1,0 +1,28 @@
+<Stats deaths="2" kills="26" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="giant" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="9" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="6" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+  </kill_map>
+</Stats>

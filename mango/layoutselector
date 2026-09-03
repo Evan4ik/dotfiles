@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+mmsg dispatch setlayout,$(mmsg get layouts | jq -r '.layouts[].name' | rofi -dmenu -i -p Select layout)

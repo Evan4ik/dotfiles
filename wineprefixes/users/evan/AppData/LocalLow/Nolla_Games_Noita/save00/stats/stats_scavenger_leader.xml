@@ -1,0 +1,22 @@
+<Stats deaths="9" kills="3" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="1" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="player" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+  </kill_map>
+</Stats>

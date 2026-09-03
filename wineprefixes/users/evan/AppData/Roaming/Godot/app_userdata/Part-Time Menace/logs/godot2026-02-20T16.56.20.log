@@ -1,0 +1,68 @@
+Godot Engine v3.6.1.stable.official.b1ba98fce - https://godotengine.org
+OpenGL ES 3.0 Renderer: NVIDIA GeForce GTX 1050 Ti
+Async. shader compilation: OFF
+ 
+ERROR: (Node not found: "screensavers/loop/screen/dummy" (relative to "World").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: setup_local_to_scene (scene/main/viewport.cpp:72) - Condition "!vpn" is true.
+ERROR: (Node not found: "../Player" (relative to "/root/World/menu").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+connected: 
+res://scenes/tutorial.tscn
+ERROR: (Node not found: "wardrobe/player" (relative to "menu").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: setup_local_to_scene (scene/main/viewport.cpp:72) - Condition "!vpn" is true.
+ERROR: (Node not found: "../../../floor4/lights" (relative to "/root/World/environment/fakemainbuilding/structure/lightcube/handle").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: (Node not found: "../../../floor4/lights" (relative to "/root/World/environment/fakemainbuilding/structure/lightcube/light2").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+WARNING: The HingeJoint parameter 0 is deprecated.
+   at: set_param (modules/bullet/hinge_joint_bullet.cpp:115) - This method has been deprecated and will be removed in the future.
+ERROR: (Node not found: "../floor1/door/door/MeshInstance" (relative to "/root/World/environment/staffbuilding/BakedLightmap").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: Condition "!vi" is true. Continuing.
+   at: _assign_lightmaps (scene/3d/baked_lightmap.cpp:1215) - Condition "!vi" is true. Continuing.
+ERROR: (Node not found: "../floor1/door2/door/MeshInstance" (relative to "/root/World/environment/staffbuilding/BakedLightmap").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: Condition "!vi" is true. Continuing.
+   at: _assign_lightmaps (scene/3d/baked_lightmap.cpp:1215) - Condition "!vi" is true. Continuing.
+ERROR: (Node not found: "../floor2/closetdoor/door/MeshInstance" (relative to "/root/World/environment/staffbuilding/BakedLightmap").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: Condition "!vi" is true. Continuing.
+   at: _assign_lightmaps (scene/3d/baked_lightmap.cpp:1215) - Condition "!vi" is true. Continuing.
+ERROR: Function blocked during in/out signal. Use set_deferred("monitoring", true/false).
+   at: set_monitoring (scene/3d/area.cpp:261) - Condition "locked" is true.
+ERROR: (Node not found: "../floor1/door/door/MeshInstance" (relative to "/root/World/environment/staffbuilding/BakedLightmap").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: Condition "!vi" is true. Continuing.
+   at: _clear_lightmaps (scene/3d/baked_lightmap.cpp:1239) - Condition "!vi" is true. Continuing.
+ERROR: (Node not found: "../floor1/door2/door/MeshInstance" (relative to "/root/World/environment/staffbuilding/BakedLightmap").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: Condition "!vi" is true. Continuing.
+   at: _clear_lightmaps (scene/3d/baked_lightmap.cpp:1239) - Condition "!vi" is true. Continuing.
+ERROR: (Node not found: "../floor2/closetdoor/door/MeshInstance" (relative to "/root/World/environment/staffbuilding/BakedLightmap").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: Condition "!vi" is true. Continuing.
+   at: _clear_lightmaps (scene/3d/baked_lightmap.cpp:1239) - Condition "!vi" is true. Continuing.
+res://scenes/mainmenu.tscn
+ERROR: (Node not found: "screensavers/loop/screen/dummy" (relative to "World").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: setup_local_to_scene (scene/main/viewport.cpp:72) - Condition "!vpn" is true.
+ERROR: (Node not found: "../Player" (relative to "/root/World/menu").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+res://scenes/world.tscn
+ERROR: (Node not found: "wardrobe/player" (relative to "menu").)
+   at: get_node (scene/main/node.cpp:1513) - Method failed. Returning: nullptr
+ERROR: ViewportTexture: Path to node is invalid.
+   at: setup_local_to_scene (scene/main/viewport.cpp:72) - Condition "!vpn" is true.
+WARNING: Octahedral compression cannot be used to compress a zero-length vector, please use normalized normal values or disable octahedral compression
+   at: norm_to_oct (servers/visual_server.cpp:347) - Octahedral compression cannot be used to compress a zero-length vector, please use normalized normal values or disable octahedral compression
+ERROR: Cannot get path of node as it is not in a scene tree.
+   at: get_path (scene/main/node.cpp:1828) - Condition "!is_inside_tree()" is true. Returned: NodePath()
+ERROR: Cannot get path of node as it is not in a scene tree.
+   at: get_path (scene/main/node.cpp:1828) - Condition "!is_inside_tree()" is true. Returned: NodePath()
+ERROR: Cannot get path of node as it is not in a scene tree.
+   at: get_path (scene/main/node.cpp:1828) - Condition "!is_inside_tree()" is true. Returned: NodePath()

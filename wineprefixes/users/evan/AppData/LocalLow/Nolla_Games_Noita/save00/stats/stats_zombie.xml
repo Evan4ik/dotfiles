@@ -1,0 +1,44 @@
+<Stats deaths="65" kills="2" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_explosion" value="19" >
+    </E>
+    <E key="NULL | $damage_fire" value="4" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="4" >
+    </E>
+    <E key="miner | $damage_melee" value="1" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="3" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="11" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="rat | $damage_melee" value="4" >
+    </E>
+    <E key="shotgunner | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="2" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="rat" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

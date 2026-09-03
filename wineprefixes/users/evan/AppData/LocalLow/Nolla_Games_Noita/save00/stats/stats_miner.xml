@@ -1,0 +1,48 @@
+<Stats deaths="87" kills="23" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_explosion" value="4" >
+    </E>
+    <E key="NULL | $damage_fire" value="18" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="8" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="6" >
+    </E>
+    <E key="NULL | damage from material: lava" value="5" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_ice" value="1" >
+    </E>
+    <E key="player | $damage_kick" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="31" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="player | hit" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="rat" value="13" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="zombie" value="5" >
+    </E>
+  </kill_map>
+</Stats>

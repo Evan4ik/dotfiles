@@ -1,0 +1,22 @@
+<Stats deaths="9" kills="3" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="orb_laseremitter | $damage_plasmabeam" value="3" >
+    </E>
+    <E key="player | $damage_hitfx_curse" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+  </kill_map>
+</Stats>

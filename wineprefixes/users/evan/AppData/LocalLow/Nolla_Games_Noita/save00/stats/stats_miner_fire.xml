@@ -1,0 +1,22 @@
+<Stats deaths="17" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="miner_fire | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="9" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="miner_fire" value="1" >
+    </E>
+  </kill_map>
+</Stats>

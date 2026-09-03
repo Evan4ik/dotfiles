@@ -1,0 +1,12 @@
+default-timeout=5000
+background-color={{background}}
+text-color={{color15}}
+border-color={{color14}}
+font=JetBrains Mono 12
+
+[urgency="critical"]
+anchor=center
+border-color={{color9}}
+
+[actionable=true]
+on-button-left=exec makoctl dismiss -a
