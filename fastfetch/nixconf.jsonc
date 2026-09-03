@@ -4,7 +4,7 @@
 	  "separator": " ",
   },
   "logo": {
-	  "padding": { "top": 3, },
+	  "padding": { "top": 2, },
   },
   "modules": [
         {
@@ -14,22 +14,22 @@
         {
             "type": "os",
             "key": " OS",
-            "keyColor": "magenta"
+            "keyColor": "cyan"
         },
         {
             "type": "kernel",
             "key": "├ Kernel",
-            "keyColor": "magenta"
+            "keyColor": "cyan"
         },
         {
             "type": "packages",
             "key": "├󰏖 Packages",
-            "keyColor": "magenta"
+            "keyColor": "cyan"
         },
         {
             "type": "shell",
             "key": "├ Shell",
-            "keyColor": "magenta"
+            "keyColor": "cyan"
         },
         //{
             //"type": "localIP",
@@ -39,12 +39,12 @@
         {
             "type": "uptime",
             "key": "├󰅐 Uptime",
-            "keyColor": "magenta"
+            "keyColor": "cyan"
         },
 	{
 	    "type": "command",
 	    "key": "└󱦟 Age",
-	    "keyColor": "magenta",
+	    "keyColor": "cyan",
 	    "text": "birth_install=$(stat -c %W /); current=$(date +%s); days_difference=$(( (current - birth_install) / 86400 )); echo $days_difference days"
 	},
             "break",
