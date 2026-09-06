@@ -4,6 +4,7 @@
 (menu-bar-mode -1)
 (scroll-bar-mode -1)
 (setq inhibit-startup-screen t)
+(setq visible-bell 1)
 
 (global-display-line-numbers-mode 1)
 (column-number-mode 1)
@@ -41,6 +42,12 @@
   (package-install 'use-package))
 
 (require 'use-package)
+
+(use-package tokyonight-themes
+  :vc (:url "https://github.com/xuchengpeng/tokyonight-themes")
+  :config
+  (tokyonight-themes-load-theme 'tokyonight-moon)
+  (keymap-global-set "<f5>" #'tokyonight-themes-toggle))
 
 ;; Download Evil
 
@@ -93,24 +100,4 @@
 (global-set-key (kbd "C-c a") #'org-agenda)
 (global-set-key (kbd "C-c c") #'org-capture)
 
-(custom-set-variables
- ;; custom-set-variables was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- '(custom-enabled-themes '(tokyonight-night))
- '(custom-safe-themes
-   '("9b31c59df295dfc72c57d4b201c66a28431030535238fae8d1a9adfe1db868ba"
-     "4dcf06273c9f5f0e01cea95e5f71c3b6ee506f192d75ffda639d737964e2e14e"
-     default))
- '(org-agenda-files '("/home/evan/dox/orgfiles/vid.org"))
- '(package-selected-packages nil)
- '(package-vc-selected-packages
-   '((tokyonight-themes :url
-			"https://github.com/xuchengpeng/tokyonight-themes"))))
-(custom-set-faces
- ;; custom-set-faces was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- )
+(load-file "~/.config/emacs/tokyonight-theme.el")
