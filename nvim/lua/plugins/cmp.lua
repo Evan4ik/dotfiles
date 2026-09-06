@@ -13,6 +13,7 @@ return {
         "rafamadriz/friendly-snippets",
         "onsails/lspkind.nvim", -- vs-code like pictograms
     },
+    enabled = false,
     config = function()
         local cmp = require("cmp")
         local lspkind = require("lspkind")
@@ -47,6 +48,6 @@ return {
         vim.cmd([[
       set completeopt=menuone,noinsert,noselect
       highlight! default link CmpItemKind CmpItemMenuDefault
-    ]])
+      ]])
     end,
 }

@@ -1,12 +1,16 @@
+sort=-time
 default-timeout=5000
 background-color={{background}}
 text-color={{color15}}
 border-color={{color14}}
-font=JetBrains Mono 12
+font=JetBrains Mono 16
+width=512
+height=110
 
-[urgency="critical"]
+[urgency=critical]
 anchor=center
-border-color={{color9}}
+border-color={{color3}}
+default-timeout=0
 
 [actionable=true]
 on-button-left=exec makoctl dismiss -a

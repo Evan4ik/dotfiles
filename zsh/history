@@ -1,2009 +1,3 @@
-echo "fishing blues"
-cd .config/waybar
-ls
-nvim style.css
-nvim .config/waybar/config
-yay -Q | grep zeroconf
-yay -Ss avahi
-yay -Qdt
-pkill godot
-pkill godot
-yay -Rns mousepad
-cd dwn
-nvim searx
-yay -Ss language
-yay -Ss language laern
-yay -Ss language learn
-yt-dlp -x --audio-format best --no-keep-video -P ~/music 'https://www.youtube.com/watch?v=20JYWMouwpQ'
-gsettings set org.gnome.desktop.interface gtk-theme "Qogir-Dark"
-nvim .config/hypr/hyprland.lua
-gsettings set org.gnome.desktop.interface gtk-theme "Qogir-Dark"
-flatpak list
-flatpak uninstall org.kde.KStyle.Kvantum
-flatpak uninstall org.kde.Platform
-flatpak uninstall org.kde.Platform
-./FireAlpaca-2.14.0-x86_64.AppImage
-yay -Ss qtwayland
-yay -Ss qt
-yay -Ss qt wayland
-nvim .config/hypr/hyprland.lua
-nvim ~/.config/hypr/hyprland.lua
-nvim ~/.config/hypr/hyprland.lua
-nvim ~/.config/hypr/hyprland.lua
-./FireAlpaca-2.14.0-x86_64.AppImage
-nvim ~/.config/hypr/hyprland.lua
-./FireAlpaca-2.14.0-x86_64.AppImage
-hyprctl restart
-hyprctl reload
-./FireAlpaca-2.14.0-x86_64.AppImage
-export "QT_QPA_PLATFORM"=xcb
-./FireAlpaca-2.14.0-x86_64.AppImage
-./FireAlpaca-2.14.0-x86_64.AppImage
-export "QT_QPA_PLATFORM"=kde
-./FireAlpaca-2.14.0-x86_64.AppImage
-export "QT_QPA_PLATFORM"=xcb
-export "XDG_CURRENT_DESKTOP"=kde
-./FireAlpaca-2.14.0-x86_64.AppImage
-export "QT_PLATFORM_PLUGIN"=kde
-export "KDE_SESSION_VERSION"=5
-./FireAlpaca-2.14.0-x86_64.AppImage
-./FireAlpaca-2.14.0-x86_64.AppImage
-./FireAlpaca-2.14.0-x86_64.AppImage
-env
-./FireAlpaca-2.14.0-x86_64.AppImage
-./FireAlpaca-2.14.0-x86_64.AppImage
-nvim .dox
-cd ~/dox
-ls
-nvim firealpaca_theme
-nvim fire
-nvim firealpaca_theme
-nvim firefox
-nvim firealpaca_theme
-./firealpaca_theme
-chmod +x ./firealpaca_theme
-./firealpaca_theme
-nvim firefox
-nvim firealpaca_theme
-./firealpaca_theme
-nvim firefox
-nvim firefox_opener
-nvim firefox
-./check_aur_infected.sh
-env
-~/qBits/FireAlpaca-2.14.0-x86_64.AppImage
-./firealpaca_theme
-nvim ~/.local/share/applications/firealpaca.desktop
-nvim .config/hypr/hyprland.lua
-hyprctl restart
-hyprctl reload
-nvim .local/share/applications/firealpaca.desktop
-./qBits/FireAlpaca-2.14.0-x86_64.AppImage
-export "QT_PLATFORM_PLUGIN"=kde
-./qBits/FireAlpaca-2.14.0-x86_64.AppImage
-env
-env | grep QT
-env | grep -i kde
-env | grep XDG_
-nvim .config/hypr/hyrpland.lua
-export "KDE_SESSION_VERSION"=5
-./qBits/FireAlpaca-2.14.0-x86_64.AppImage
-export "XDG_CURRENT_DESKTOP"=kde
-./qBits/FireAlpaca-2.14.0-x86_64.AppImage
-nvim ./dox/firealpaca_theme
-./dox/firealpaca_theme
-nvim .local/share/applications/firealpaca.desktop
-yay -Ss QFile
-yay -Ss Q
-yay -Ss qfile
-nvim dox/firealpaca_theme
-dox/firealpaca_theme
-nvim dox/firealpaca_theme
-dox/firealpaca_theme
-nvim .config/hypr/hyprland.lua
-env
-env | grep gtk
-nvim dox/firealpaca_theme
-cd qBits
-QT_QPA_PLATFORMTHEME=gtk3 ./FireAlpaca-2.14.0-x86_64.AppImage
-QT_QPA_PLATFORMTHEME=gtk3 ./FireAlpaca-2.14.0-x86_64.AppImage -extra-plugins=iconengines,platformthemes/libqgtk3.so
-export QT_QPA_PLATFORMTHEME="qt5ct"
-env 
-yay -Ss qt*ct
-yay -Ss qt
-yay -Ss qt5-way
-yay -S qt5-wayland
-nvim .config/hypr/hyprland.lua
-flatpak install org.kde.KStyle.Kvantum
-flatpak install org.kde.Platform
-yay -Ss qtc6
-yay -Ss qt
-yay -S qt6ct
-yay -Ss qt6ct
-yay -S qt6ct-kde
-yay -S kvantum
-nvim .config/hypr/hyprland.lua
-cat /etc/modprobe.d/rtw8822bu.conf
-nvim ./dwn/searx
-pkill godot
-pkill godot
-btop
-btop
-pkill godot
-intime
-yay -Q | grep nvidia
-yay -Q | grep mesa
-nvim .config/waybar/config
-nvim .config/waybarmohammad/config
-hyprctl dispatch movecurrentworkspacetomonitor l
-hl.dispatch(movecurrentworkspacetomonitor) 1
-hl.dispatch(movecurrentworkspacetomonitor 1)
-hl.dispatch(movecurrentworkspacetomonitor 1)
-nvim .config/hypr/hyprland.lua
-yay -Ss mango
-yay -S mangowm-git
-mkdir -p ~/.config/mango
-sudo cp /etc/mango/config.conf ~/.config/mango
-nvim .config/mango/config.conf 
-sudo chown -R evan .config/mango
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-waybar & disown
-cat .config/hypr/hyprland.lua
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-waybar & disown
-nvim .config/waybar/config
-cp .config/waybar/config .config/waybar/hyprconfig
-nvim .config/waybar/config
-pkill waybar
-waybar & disown
-nvim .config/waybar/config
-pkill librewolf
-nvim .config/mango/config.conf 
-nvim .config/mango/config.conf 
-nvim .config/waybar/config
-pkill waybar && waybar & disown
-nvim .config/mango/config.conf 
-nvim .config/mango/autostart.sh
-chmod +x .config/mango/autostart.sh
-.config/mango/autostart.sh
-nvim .config/mango/autostart.sh
-pkill waybar
-nvim .config/waybar/config
-nvim .config/waybar/style.css
-nvim .config/waybar/config
-nvim .config/hypr/hyprland.lua
-nvim .config/mango/config.conf
-nvim .config/mango/config.conf
-waybar & disown & exit
-waybar & disown
-nvim .config/waybar/config
-pkill waybar && waybar & disown
-nvim .config/mango/config.conf
-quit
-pkill librewolf
-nvim .config/hypr/hyprland.lua
-cd .config/waybar
-ls
-mv config.jsonc config.oldjs
-nvim config
-pkill waybar
-waybar
-mv config config.jsonc
-waybar
-mv config config.jsonc
-nvim config.jsonc
-waybar
-waybar -Dexperimental=true
-waybar -Dexperimental=1
-waybar --Dexperimental=1
-waybar Dexperimental=1
-waybar --experimental=1
-waybar -experimental=1
-waybar
-nvim config.jsonc
-waybar
-nvim config.jsonc
-waybar
-nvim config.jsonc
-waybar
-tree .config/mango
-cd .config/mango
-ls
-nvim config.conf
-waybar
-pkill librewolf
-pkill mango
-btop
-nvim .config/waybar
-cd .config/waybar
-ls
-rm config.oldjs
-mv config.jsonc mangoconfig.jsonc
-mv hyprconfig config/jsonc
-mv hyprconfig config.jsonc
-ls
-cp .config/waybar/config.jsonc .config/mango/waybar/
-mkdir -p .config/mango/waybar
-cp .config/waybar/config.jsonc .config/mango/waybar/
-rm .config/mango/waybar/config.jsonc
-cp .config/waybar/mangoconfig.jsonc ~/.config/mango/waybar/config.jsonc
-cp .config/waybar/style.css ~/.config/mango/waybar/
-nvim .config/mango/config.conf
-yay -Ss adwaita
-yay -Ss gnome-theme
-yay -S gnome-themes
-yay -S gnome-themes-extra
-nvim .config/hypr/hyprland.lua
-pkill xdg
-the next-shit
-find | grep -i again
-find
-chmod +x run_bepinex.sh
-./run_bepinex.sh
-nvim run_bepinex.sh
-./run_bepinex.sh
-nvim run_bepinex.sh
-./run_bepinex.sh
-umu-run Again
-umu-run Again.exe
-find | grep -i again
-man umu-launcher
-man umu-rum
-WINEPREFIX=$HOME/.wine
-export WINEPREFIX=$HOME/.wine
-env
-nvim .config/hypr/hyprland.lua
-ln -s /usr/bin/kitty /usr/bin/gnome-terminal
-ln -s /usr/bin/kitty /usr/bin/gnome-termin
-sudo ln -s /usr/bin/kitty /usr/bin/gnome-terminal
-yay -Ss dotnet
-cd ~/dox/MagnificusMod
-ls
-nvim Scripts/Plugin.cs
-grep -rni "pluginguid\
-"
-grep -rni "pluginguid"
-nvim Patches
-nvim 
-nvim ./
-yay -Ss visual studio
-cd ~/dox/AgainMods/TestMod
-dotnet new sln -n AgainTestMod
-dotnet new sln -n AgainTestMod -v
-dotnet new sln -n AgainTestMod 
-yay -Ss visual studio
-yay -Ss dotnet
-yay -Rns dotnet-sdk
-yay -Rns dotnet-runtime dotnet-host
-yay -S dotnet-sdk
-yay
-yay -S dotnet-sdk
-dotnet new sln -n AgainTestMod 
-yay -Ss dotnet
-yay -S dotnet-host dotnet-runtime
-dotnet new sln -n AgainTestMod 
-dotnet new calsslib -n AgainTestMod
-dotnet new classlib -n AgainTestMod
-dotnet restore
-dotnet new classlib -f net472 -n AgainTestMod
-dotnet new classlib -n AgainTestMod
-dotnet new classlib -n AgainTestMod --force
-cd ..
-cd ~/dox/AgainMods/AgainTestMod
-ls
-dotnet new sln -n AgainTestMod 
-dotnet new install BepInEx.Templates::2.0.0-be.4 --nuget-source https://nuget.bepinex.dev/v3/index.json\
-
-dotnet new install BepInEx.Templates::2.0.0-be.4 --nuget-source https://nuget.bepinex.dev/v3/index.json\
-
-dotnet new bepinex5plugin -n AgainTestMod -T net46 -U 2018.3.7
-dotnet tool install -g EasyDotnet
-cd .config/nv
-cd ..
-cd nvim
-ls
-nvim lazy-lock.json
-cd ~
-grep -rni "NUGET_PACKAGES"
-nvim .zshrc
-export NUGET_PACKAGES+"$HOME/.nuget"
-export NUGET_PACKAGES="$HOME/.nuget"
-dotnet build
-nvim AgainTestMod.csproj
-sudo dotnet build
-sudo dotnet build
-sudo chown evan -R ./
-ln -s /home/evan/dox/Again/BepInEx/plugins ./net46
-ls
-mv net46 ./bin/Debug
-dotnet build
-nvim .config/hypr/hyprland.lua
-nvim ~/.config/hypr/hyprland.lua
-env
-dotnet build
-env
-env
-cd dox/Again
-cd ..
-cd AgainMods/AgainTestMod/
-dotnet build
-dotnet tool install -g EasyDotnet
-cd .config/nvim
-ls
-cd lua
-ls
-cd plugins
-ls
-cd ..
-cd config
-ls
-cd ../plugins
-nvim neotree.lua
-ls
-nvim easydotnet.lua
-nvim
-cd .config/nvim
-ls
-cd lua/plugins/
-ls
-nvim treesitter.lua
-nvim
-nvim .config/nvim/lua/plugins/treesitter.lua
-cd .config/nvim
-cd lua/plugins
-nvim treesitter.lua
-nvim ./dox/MagnificusMod
-cd ./dox/MagnificusMod
-grep -rni Postfix
-nvim Patches/SacrificenCostFixes.cs
-grep -rni Debugger
-grep -rni debugger
-grep -rni .log
-nvim Scripts/Plugin.cs
-MasonInstall roslyn-language-server
-cd .config/nvim/lua/plugins
-nvim roslyn.lua
-nvim
-nvim lsp.lua
-nvim
-rm lsp.lua
-nivm
-nvim
-nvim treesitter.lua
-umu-run AssemblyPublicizer.exe
-assembly-publicizer
-dotnet tool install -g BepInEx.AssemblyPublicizer.Cli
-cd dox/AgainMods/AgainTestMod/lib
-ls
-assembly-publicizer ./Again.dll
-assembly-publicizer
-export PATH="$PATH:/home/evan/.dotnet/tools"
-assembly-publicizer ./Again.dll
-assembly-publicizer ./Again.dll
-yay -Ss dotnet
-yay -S dotnet-sdk-6.0
-assembly-publicizer ./Again.dll
-btop
-cd dox/MagnificusMod
-grep -rni Component
-grep -rni GetSingleton
-grep -rni singleton
-nvim Scripts/Plugin.cs
-grep -rni netstandard
-nvim MagnificusMod.csproj
-cd dox/MagnificusMod
-nvim Scripts/Plugin.cs
-umu-run Again.exe
-yay -Ss dotnet framework
-yay -Ss dotnet
-protontricks --gui
-winetricks --gui
-yay -Ss protontricks
-yay -S protontricks
-protontricks --gui
-umu-run Again.exe
-umu-run Again.exe
-cd dox/MagnificusMod
-grep -rni "() =?"
-grep -rni "() =>"
-grep -rni delegate
-grep -rni color
-nvim dox/AgainMods/AgainTestMod/Plugin.cs
-cd dox/MagnificusMod
-ls
-grep -rni config
-cd Patches
-ls
-cd ../Scripts
-ls
-bat C
-bat Config.cs
-cd ..
-grep -rni magconfig
-nvim Scripts/Config.cs
-grep -rni path
-grep -rni path =
-grep -rni path=
-grep -rni "path"
-grep -rni "path ="
-grep -rn "Path ="
-grep -rn "Path"
-nvim Scripts/Plugin.cs
-nvim Cards/Cards.cs
-nvim Scripts/Tools.cs
-grep -rn " Path"
-nvim Scripts/mapgeneration.cs
-grep -rni "quaternion"
-grep -rni "config\
-"
-grep -rni "config"
-nvim Scripts/Config.cs
-cd dox/AgainMods
-btop
-fastfetch
-cd AgainTestMod
-nvim MouseSense.cs
-cd dox/AgainMods/AgainTestMod
-dotnet build
-dotnet add package Lib.Harmony --version 2.4.2
-dotnet build
-dotnet add package UnityEngine --version 1.0.0
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-umu-run Again.exe
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet add package Unity3D.UnityEngine.UI --version 2018.3.5.1
-dotnet build
-dotnet build
-pkill again
-xkill
-xkill
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-xkill
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-cd ./dox/AgainMods
-cd AgainTestMod
-nvim Plugin.cs
-nvim Plugin.cs
-nvim Plugin.cs
-nvim AgainTestMod.csproj
-nvim Plugin.cs
-nvim Config.cs
-nvim Plugin.cs
-btop
-btop
-cd dox/AgainMods/AgainTestMod
-nvim Plugin.cs
-wine Again.exe
-nvim ~/.zshrc
-nvim ~/.config/hypr/hyprland.lua
-export WINEPREFIX="/home/evan/.wine"
-wine Again.exe
-cd ~/dox/AgainMods/AgainTestMod
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-pkill Again
-btop
-pkill Again
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-dotnet build
-nvim .config/mango/config.conf
-waybar -c ~/.config/mango/waybar/config.jsonc -s ~/.config/mano/style.css\
-
-waybar -c ~/.config/mango/waybar/config.jsonc -s ~/.config/mango/style.css\
-
-cd .config/mango/waybar
-ls
-nvim .config/mango/config.conf
-nvim .config/mango/config.conf
-nvim .config/mango/waybar/config.jsonc
-nvim .config/mango/waybar/config.jsonc
-nvim .config/mango/config.conf
-nvim .config/mango/config.conf
-cp .config/mango/config.conf .config/mango/tagpermonitorconf.conf
-btop
-yay -Ss waybar
-yay -S waybar-git
-yay -S waybar-git
-man waybar
-nvim .config/mango/config.conf
-nvim .config/mango/config.conf
-nvim .config/mango/waybar/config.jsonc
-nvim .config/mango/waybar/config.jsonc
-nvim .config/mango/config.conf
-input type:keyboard xkb_switch_layout next
-xkb_switch_layout next
-nvim .config/mango/waybar/config.jsonc
-hyprsunset
-fastfetch -l hyprland
-fastfetch -l mango
-nvim .config/mango/waybar/config.jsonc
-yay -Ss wlsunset
-yay -S wlsunset
-yay -Rns hyprsunstt
-yay -Rns hyprsunset
-cd .config
-ls
-ls | grep hypr
-wlsunset
-wlsunset -t 4000
-wlsunset -g 0.5
-wlsunset -T 4000
-wlsunset -T 4500
-wlsunset -h
-yay -Ss gammastep
-yay -Ss gammactl
-wlsunset -t 3500 -T 6000
-wlsunset -S 18:00 -t 4000 -T 6000
-wlsunset -s 18:00 -t 4000 -T 6000
-wlsunset -s 21:00 -t 4000 -T 6000
-wlsunset -s 21:30 -t 4000 -T 6000
-wlsunset -s 21:30 -t 4000 -T 6500
-wlsunset -s 23:10 -t 4000 -T 6500
-nvim .config/mango/config.conf
-systemctl --user exit
-systemctl --user exit && loginctl terminate-session $XDG_SESSION_ID
-loginctl terminate-session $XDG_SESSION_ID
-nvim .config/mango/waybar/config.jsonc
-btop
-fastfetch
-nvim .config/mango/config.conf
-nvim .config/kitty/kitty.conf
-yay -Ss st
-yay -Ss suckless terminal
-yay -Ss st terminal
-mkdir -p .config/foot/
-nvim .config/mango/config.conf
-rm .config/mango/autostart.sh
-yay -Ss tofi
-yay -Ss foot
-yay -S foot
-nvim .config/foot/foot.ini
-foot
-foot ~/
-nvim .config/foot/foot.ini
-nvim .config/foot/foot.ini
-nvim .config/foot/foot.ini
-nvim .config/foot/foot.ini
-nvim .config/mango/config.conf
-nvim .config/foot/foot.ini
-foot
-cd .config/zsh
-ls
-cp ~/.zshrc ./
-foot
-kitty +kitten themes
-nvim ~/.config/kitty/kitty.conf
-nvim ~/.config/kitty/
-grep -rni "kitty"
-find --depth 5
-find -depth 5
-man find
-find -maxdepth 3 | grep -i kitty
-yay -Rns kitty
-btop
-nvim .config/hypr/hyprland.lua
-nvim .config/mango/config.conf
-btop
-nvim .config/foot/foot.ini
-nvim .config/foot/foot.ini
-nvim .config/foot/foot.ini
-Again
-nvim .config/hypr/hyprland.lua
-hyprlock
-hyprpicker
-nvim .config/hypr/hyprland.lua
-yay -Rns hyprshutdown
-yay -Ss hyprpicker
-yay -Q | grep hypr
-hypridle
-nvim .config/mango/config.conf
-nvim .config/mango/config.conf
-nvim .config/mango/config.conf
-hyprpicker -r -v
-nvim .config/mango/waybar/config.jsonc
-nvim .config/mango/waybar/style.css
-hypridle & disown
-nvim .config/mango/config.conf
-mango --help
-switch_layout
-setlayout,scroller
-bind=SUPER,s,setlayout,scroller
-yay -Ss xdg-desktop-portal-wlr
-yay -S xdg-desktop-portal-wlr
-/usr/lib/xdg-desktop-portal-wlr & disown
-yay -Ss xdg-desktop-portal
-nvim .config/mango/config.conf
-waybar-updates --help
-aux -G
-ps aux -G
-ps -G
-ps -g
-ps 
-ps -a
-ps -a
-ps -A
-cd dox
-nvim killProcess
-nvim firefox
-nvim killProcess
-nvim ~/.config/mango/waybar/config.jsonc
-nvim killProcess
-botp
-btop
-ps --help
-man ps
-nvim screenshotutil
-nvim killProcess
-chmod +x ./killProcess
-./killProcess
-nvim killProcess
-./killProcess
-nvim killProcess
-./killProcess
-nvim killProcess
-./killProcess
-./killProcess
-nvim killProcess
-./killProcess
-nvim killProcess
-./killProcess
-nvim killProcess
-./killProcess
-nvim killProcess
-./killProcess
-./killProcess
-ps
-ps aux
-atop -a
-pgrep 
-pgrep ""
-htop
-pstree
-ps aux | grep evan
-ps aux --sort=-%cpu | grep evan
-ps aux -g --sort=-%cpu | grep evan
-ps aux  --sort=-%cpu | grep evan
-ps aux -u
-ps aux -u evan
-ps aux -u evan -C
-ps aux -u evan --forest
-ps aux -u evan  --sort=-%cpu
-ps aux -u evan -P u  --sort=-%cpu
-ps aux -u evan -P pid  --sort=-%cpu
-ps aux -u evan -o pid  --sort=-%cpu
-ps aux -u evan -P -oo pid  --sort=-%cpu
-ps aux -u evan -P -o pid  --sort=-%cpu
-top
-btop
-ps -C beam.smp,docker -o pid,user:evan,%cpu,%mem,comm,args
-ps -C beam.smp,docker -o pid,user:20,%cpu,%mem,comm,args
-ps -C beam.smp,docker -o pid,%cpu,%mem,comm,args
-ps -C -o pid,%cpu,%mem,comm,args
-ps -p 1337 -o comm=
-ps -p -o comm=
-ps aux 
-ps aux --user evan
-cat /proc/100
-cat /proc/100/cmdline
-ps ax|egrep "^ [PID]"
-ps aux|grep -E "^ [PID]"
-ps aux|grep "^ [PID]"
-ps aux
-ps -eo comm= | sort -u 
-ps -eo comm=
-ps -eo 
-ps -eo comm=
-ps -eo comm= -user evan
-ps aux -eo comm=
-ps -eo comm=
-ps -user evan -eo comm=
-ps -eou comm=
-ps -eou evan comm=
-ps -eo comm= -user evan
-ps aux --sort=-%cpu | grep evan
-ps -eo comm= --sort=-%cpu 
-ps -eo comm= --sort=-%cpu | sort -u | rofi
-ps -eo comm= --sort=-%cpu | sort -u | rofi -dmenu -i
-ps -eo comm= --sort=-%cpu | rofi -dmenu -i
-nvim .config/mango/config.conf
-nvim .config/mango/config.conf
-wl-cliphist
-yay -Q | grep clip
-wl-clipboard
-yay -Qdt
-yay -Rns wf-recorder
-yay -Ss scdoc
-yay -Ss accounts-qml
-yay -Rns accounts-qml-module
-yay -Rns accounts-qml-module
-sudo pacman -Rns accounts-qml-module
-yay -Q | grep accounts
-yay -Rns accounts-qml-module-debug
-yay -Qdt
-yay -Ss catch2
-yay -Ss clang21
-yay -Rns clang21
-yay -Ss gpsd
-yay -Rns gpsd
-yay -Rns hyprmon
-yay -Rns hyprmon-debug
-yay -Ss hyprmon
-yay -Rns hyprmon-bin
-fastfetch
-yay -Q
-yay -Ss signon
-yay -Ss sound-theme-freedesktop
-yay -Rns sound-theme-freedesktop
-yay -Ss libcanberra
-yay -Rns stockfish
-yay -Rns stow
-yay -Ss suil
-yay -Ss trash-cli
-trash-cli
-yay -Ss twolame
-nvim .config/mango/config.conf
-nvim .config/hypr/hyprland.lua
-nvim .config/mango/config.conf
-nvim .config/mango/config.conf
-nvim .config/mango/config.conf
-nvim .config/mango/waybar/config.jsonc
-nvim .config/mango/waybar/config.jsonc
-swaylock  -f \\
-      --screenshots --clock\\
-        --effect-blur 10x5 \\
-      --indicator \\
-      -indicator-idle-visible \\
-      --indicator-radius 100 \\
-      --fade-in 0.4 \\
-      --indicator-thickness 3 \\
-      --indicator-caps-lock \\
-      --ring-color 00000000 \\
-      --key-hl-color 34bdebff \\
-      --bs-hl-color ed8796ff \\
-      --inside-color 00000000 \\
-      --inside-clear-color 00000000 \\
-      --inside-ver-color 00000000 \\
-      --inside-wrong-color 00000000 \\
-      --ring-clear-color 00000000 \\
-      --ring-wrong-color 00000000 \\
-      --ring-ver-color 00000000 \\
-      --line-color 00000000 \\
-      --text-color 8a8a8aff \\
-      --text-clear-color f2d5cfff \\
-      --text-ver-color 8a8a8aff \\
-      --text-wrong-color ed8796ff \\
-      --effect-vignette 0.5:0.5 \\
-      --effect-compose "color=000000aa"swaylock  -f \\
-      --screenshots --clock\\
-        --effect-blur 10x5 \\
-      --indicator \\
-      -indicator-idle-visible \\
-      --indicator-radius 100 \\
-      --fade-in 0.4 \\
-      --indicator-thickness 3 \\
-      --indicator-caps-lock \\
-      --ring-color 00000000 \\
-      --key-hl-color 34bdebff \\
-      --bs-hl-color ed8796ff \\
-      --inside-color 00000000 \\
-      --inside-clear-color 00000000 \\
-      --inside-ver-color 00000000 \\
-      --inside-wrong-color 00000000 \\
-      --ring-clear-color 00000000 \\
-      --ring-wrong-color 00000000 \\
-      --ring-ver-color 00000000 \\
-      --line-color 00000000 \\
-      --text-color 8a8a8aff \\
-      --text-clear-color f2d5cfff \\
-      --text-ver-color 8a8a8aff \\
-      --text-wrong-color ed8796ff \\
-      --effect-vignette 0.5:0.5 \\
-      --effect-compose "color=000000aa"
-sort /proc/driver/nvidia/params
-yay -Ss nvidia suspend
-yay Ss suspend
-yay -Ss suspend
-yay -Rns hyprlock
-yay -Ss swaylock
-yay -S swaylock
-swaylock
-cd .config/
-mkdir swaylock
-nvim swaylock/config
-swaylock
-yay -Ss waylock
-yay -S waylock
-waylock
-yay -Rns waylock
-yay -Ss swaylock-effects
-yay -S swaylock-effects-improved
-yay -S swaylock-effects-improved-git
-swaylock
-pkill swaylock
-btop
-exit
-mango
-swaylock
-yay -Rns swalock-effects-git
-yay -Q
-yay -Q | grep sway
-yay -Rns swaylock-effects-improved-git
-yay -Rns swaylock-effects-improved-git-debug
-yay -Ss lock
-yay -Ss waylock
-yay -S swaylock
-yay -Ss swaylock
-yay -S swaylock-effects
-                                                                swaylock
-swaylock --clock
-man swaylock
-swaylock
-swaylock
-swaylock --line-color FFFFFF
-swaylock --text-color FFFFFF
-swaylock
-swaylock --text-color FFFFFF
-swaylock
-swaylock
-swaylock
-swaylock
-nvim .config/mango/config.conf
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-swaylock
-cd .config
-nvim hypr
-yay -Ss dpms
-yay -Ss hypridle
-yay -Ss swayidle
-yay -S swayidle
-yay -Rns hypridle
-mkdir .config/swayidle
-nvim .config/swayidle/config
-swayidle
-nvim .config/swayidle/config
-nvim .config/swaylock/config
-swayidle
-nvim .config/swaylock/config
-nvim .config/swayidle/config
-                                                                swaylock --clock -S
-                                                                swaylock --clock -S --effect-blur 7x5
-                                                                swaylock --clock -S --effect-blur 2x5
-                                                                swaylock --clock -S --effect-blur 10x10
-                                                                swaylock --clock -S --effect-blur 5x10
-                                                                swaylock --clock -S --effect-blur 5x5
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 100
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 7
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --grace 2
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --grace 2
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --grace 1
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --fade-in 0.2
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --fade-in 0.2 --indicator-idle-visible
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --fade-in 0.2 --indicator-idle-visible --indicator-color 000000
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --fade-in 0.2 --indicator-idle-visible --inside-color 000000
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --fade-in 0.2 --indicator-idle-visible --indicator-color 000000 --layout-text-color FFFFFF
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --fade-in 0.2 --indicator-idle-visible --indicator-color 000000 --line-color FFFFFF
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --fade-in 0.2 --indicator-idle-visible --indicator-color 000000 --line-color FFFFFF
-                                                                swaylock --clock -S --effect-blur 5x5 --indicator-radius 150 --indicator-thickness 20 --fade-in 0.2 --indicator-idle-visible --indicator-color 000000 --line-color FFFFFF
-nvim .config/swaylock/config
-swaylock
-nvim .config/swaylock/config
-nvim .config/mango/config.conf
-nvim .config/swaylock/config
-nvim .config/mango/config.conf
-pidof
-man pidof
-loginctl lock-session
-swayidle -w timeout 5 'swaylock'
-yay -Ss swaymsg
-swaymsg
-disable_monitor
-mmsg view,1
-mmsg view 1
-man mmsg
-mmsg dispatch view,1
-mmsg dispatch view,2
-mmsg dispatch disable_monitor
-mmsg dispatch enable_monitor
-mmsg dispatch sleep_monitor
-mmsg dispatch wakeup_monitor
-nvim .config/mango/config.conf
-man swayidle
-nvim .config/hypr/hypridle.conf
-swayidle
-waybar
-nvim .config/swayidle/config 
-pkill swayidle
-swayidle & disown
-nvim .config/swaylock/config
-nvim .config/swayidle/config 
-btop
-nvim .config/swayidle/config 
-pkill swayidle 
-swayidle
-nvim .config/swayidle/config 
-swayidle
-nvim .config/swayidle/config 
-swayidle
-nvim .config/hypr/hyprlock.conf
-nvim .config/hypr/hypridle.conf
-man swayidle
-nvim .config/hypr/hypridle.conf
-loginctl lock-session
-man swaylock
-man swayidle
-man swaylock
-nvim .config/swaylock/config
-nvim .config/swayidle/config
-nvim .config/mango/config.conf
-swayidle -w & disown
-nvim .config/swayidle/config
-pkill swayidle
-swayidle & disown
-nvim .config/swayidle/config
-pkill swayidle
-nvim .config/swayidle/config
-swayidle -w & disown
-pkill swayidle
-yay -Ss waypick
-yay -Ss color
-yay -Ss color picker
-yay -S wl-color-picker
-wl-color-picker
-wl-color-picker --help
-wl-color-picker clipboard
-yay -Rns wl-color-picker
-yay -S wl-clipboard
-.config/mango/layouts| rofi -dmenu 
-cat .config/mango/layouts| rofi -dmenu 
-man grim
-man slurp
-man slurp
-man grim
-yay -Rns hyprpicker
-nvim .config/mango/config.conf
-nvim .config/mango/layouts
-nvim .config/mango/layoutselector
-chmod +x .config/mango/layoutselector
-.config/mango/layoutselector
-nvim .config/mango/layoutselector
-.config/mango/layoutselector
-nvim .config/mango/layoutselector
-.config/mango/layoutselector
-.config/mango/layoutselector
-nvim .config/mango/config.conf
-swaylock
-nvim .config/swaylock/config
-swaylock
-nvim .config/swaylock/config
-swaylock
-man rofi
-fastfetch --list-logos
-fastfetch -l nixo
-fastfetch -l nixos
-fastfetch -l nixos_old
-fastfetch --list-logos
-fastfetch -l alpine
-fastfetch -l alpine2
-nvim .config/fastfetch/config.jsonc 
-yay -Ss 3d fetch
-yay -Ss 3d
-./dox/check_aur_infected.sh
-yay -S fetch-git
-fetch
-fetch --help
-fetch -l arch_old
-yay -Ss fastfetch
-fetch --list-logos
-man fetch
-fetch --help
-/logos
-fastfetch --list-logos
-fetch -l gentoo
-fetch -l nix
-fetch -l nixos
-fetch -l nixos_small
-fetch -l artix
-fetch -l manjaro
-fetch -l void
-fetch -l void2
-fetch -l debian
-fetch -l uwuntu
-fetch -l ubuntu
-fetch -l rocky
-fetch -l alpine
-fetch -l opensuse
-fetch -l openmandriva
-fetch -l opensuse-tumbleweed
-fetch -l nixos_old
-fetch -l windows 8
-fetch -l windows 11
-fetch -l windows7
-fetch -l windows 7
-fetch -l alpine2
-yay -Rns fetch-git
-yay -Rns fetch-git-debug
-yay -Ss impala
-yay -S impala
-impala
-nvim .config/mango/layoutselector
-yay -Q
-yay -Rns hyprlang
-yay -Ss 4chan
-nvim .config/mango/config.conf
-nvim .config/mpv/mpv.conf
-mpv https://www.youtube.com/watch?v=_YRJRz6lDMk&list=OLAK5uy_lVnhkRtWJyzF1FsDlE9anu_fV3oNwDR-A&index=27
-mpv https://www.youtube.com/watch?v=_YRJRz6lDMk
-mpv
-nvim .config/mpv/mpv.conf
-mpv https://www.youtube.com/watch?v=3muebXK6kJ4
-mpv "https://www.youtube.com/watch?v=3muebXK6kJ4"
-mpv --shuffle 'https://www.youtube.com/playlist?list=PLNX5B5LBj3fQzU5F1bXO5lyS5CM8lr9iC'
-mpv --shuffle 'https://www.youtube.com/playlist?list=PLNX5B5LBj3fQzU5F1bXO5lyS5CM8lr9iC' 'https://www.youtube.com/watch?v=zjuYaiQ6NRY&list=PLNX5B5LBj3fRsIZO_8IZixzqJrT_X1-PF'
-mpv --shuffle 'https://www.youtube.com/playlist?list=PLNX5B5LBj3fQzU5F1bXO5lyS5CM8lr9iC \ https://www.youtube.com/watch?v=zjuYaiQ6NRY&list=PLNX5B5LBj3fRsIZO_8IZixzqJrT_X1-PF'
-mpv --shuffle 'https://www.youtube.com/playlist?list=PLNX5B5LBj3fQzU5F1bXO5lyS5CM8lr9iC https://www.youtube.com/watch?v=zjuYaiQ6NRY&list=PLNX5B5LBj3fRsIZO_8IZixzqJrT_X1-PF'
-mpv --shuffle 'https://www.youtube.com/playlist?list=PLNX5B5LBj3fQzU5F1bXO5lyS5CM8lr9iC' 'https://www.youtube.com/watch?v=zjuYaiQ6NRY&list=PLNX5B5LBj3fRsIZO_8IZixzqJrT_X1-PF'
-mpv --shuffle --flat-playlist 'https://www.youtube.com/playlist?list=PLNX5B5LBj3fQzU5F1bXO5lyS5CM8lr9iC' 'https://www.youtube.com/watch?v=zjuYaiQ6NRY&list=PLNX5B5LBj3fRsIZO_8IZixzqJrT_X1-PF'
-nvim .config/mpv/playlists
-man rofi
-man dmenu
-man rofi-dmenu
-echo '{ "command": ["loadlist", "~/.config/mpv/playlists.txt", "insert-next-play"] }' | socat - /tmp/mpvsocket
-echo '{ "command": ["loadlist", "~/.config/mpv/playlists.txt", "insert-next-play"] }' | socat - /tmp/mpvsocket
-echo '{ "command": ["cycle", "pause"] }' | socat - /tmp/mpvsocket
-echo '{ "command": ["loadlist", "~/.config/mpv/playlists.txt", "insert-next-play"] }' | socat - /tmp/mpvsocket
-echo '{ "command": ["loadlist", "~/.config/mpv/playlists.txt", "append-play"] }' | socat - /tmp/mpvsocket
-echo '{ "command": ["loadlist", "~/.config/mpv/playlists.txt", "append-play"] }' | socat - /tmp/mpvsocket
-head -n 1 .config/mpv/playlists.txt
-head -n 2 .config/mpv/playlists.txt
-head -n 2 .config/mpv/playlists.txt
-head -n 2 .config/mpv/playlists.txt | tail -1
-sed '2q:d' .config/mpv/playlists.txt
-sed '2q;d' .config/mpv/playlists.txt
-sed '1q;d' .config/mpv/playlists.txt
-wc -l .config/mpv/playlists.txt
-wc -l .config/mpv/playlists.txt
-wc --help
-wc -l .config/mpv/playlists.txt
-wc -w .config/mpv/playlists.txt
-wc -L .config/mpv/playlists.txt
-wc -l < .config/mpv/playlists.txt
-cat "hi" "bi"
-cat "hi" "bi"
-nvim .zshrc
-nvim .config/zsh/.zshrc
-cat "hi" "bi"
-man printf
-mpv loadfile https://www.youtube.com/playlist?list=PLNX5B5LBj3fT89wFAu4wsBbx_hbEjZHHM
-mpv loadlist https://www.youtube.com/playlist?list=PLNX5B5LBj3fT89wFAu4wsBbx_hbEjZHHM
-mv .config/mpv/playlists .config/mpv/playlists.txt
-mpv
-mpv --inpt-cmd='loadlist=~/.config/mpv/playlists.txt,append'
-mpv --input-cmd='loadlist=~/.config/mpv/playlists.txt,append'
-mpv
-mpv https://www.youtube.com/watch?v=3muebXK6kJ4
-mpv 'https://www.youtube.com/watch?v=3muebXK6kJ4'
-mpv 'https://www.youtube.com/watch?v=3muebXK6kJ4'
-mpv 'https://www.youtube.com/watch?v=3muebXK6kJ4'
-mpv --shuffle ~/.config/mpv/playlists.txt
-mpv --shuffle ~/.config/mpv/playlists.txt
-mpv --shuffle "~/.config/mpv/playlists.txt"
-mpv --player-operation-mode=pseudo-gui
-mpv --shuffle --playlist=~/.config/mpv/playlists.txt
-mpv --shuffle --playlist=~/.config/mpv/playlists.txt
-mpv --shuffle --playlist=~/.config/mpv/playlists.txt
-mpv --shuffle --playlist=~/.config/mpv/playlists.txt
-mpv --shuffle --playlist=~/.config/mpv/playlists.txt --input-cmd='set pause yes'
-mpv --shuffle --playlist=~/.config/mpv/playlists.txt --input-cmd='set pause yes'
-mpv --shuffle --playlist=~/.config/mpv/playlists.txt 
-mpv --shuffle
-mpv --shuffle ~/vids/carradio.mp4
-mpv --idle=yes
-mpv --idle=yes --force-window=yes
-mpv --idle=yes --force-window=yes
-mpv --idle=yes --force-window=yes
-mpv --idle=yes --force-window=yes
-mpv --idle=yes --force-window=yes --shuffle
-mpv --idle=yes --force-window=yes --shuffle
-mpv --idle=yes --force-window=yes --shuffle
-mpv --idle=yes --force-window=yes --shuffle
-mpv --idle=yes --force-window=yes --shuffle --input-ipc-server=/tmp/mpvsocket
-mpv --idle=yes --force-window=yes --shuffle --input-ipc-server=/tmp/mpvsocket
-nvim .config/mpv/playlists.txt
-echo '{"data": ["cycle", "pause"] }' | socat - /tmp/mpvsocket
-echo '{"command": ["playlist-next"] }' | socat - /tmp/mpvsocket
-echo '{"command": ["cycle", "pause"] }' | socat - /tmp/mpvsocket
-echo '{"command": ["cycle", "pause"] }' | socat - /tmp/mpvsocket
-echo '{"command": ["cycle", "pause"] }' | socat - /tmp/mpvsocket
-echo '{"command": ["set", "pause", "true"] }' | socat - /tmp/mpvsocket
-echo '{"command": ["set", "pause", "yes"] }' | socat - /tmp/mpvsocket
-nvim .config/mpv/playlists.txt
-nvim .config/mpv/playlists.m3u
-nvim ./dox/musicsite.html
-nvim ./dox/screenshotutil
-query=$(echo "" | dmenu -p "Search:" | tr ' ' '+')\
-if [ "$query" ]; then\
-	query=$(curl -s "https://www.youtube.com/results?search_query=""$query""&sp=EgIQAQ%253D%253D")\
-	vid=$( echo "$query" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | dmenu -l 10 | cut -f2 || notify-send "Something went wrong...")\
-	[ "$vid" ] && mpv "https://youtube.com""$vid"\
-else\
-	notify-send "No query, closing."\
-fi
-query=$(echo "" | rofi -dmenu -p "Search:" | tr ' ' '+')\
-if [ "$query" ]; then\
-	query=$(curl -s "https://www.youtube.com/results?search_query=""$query""&sp=EgIQAQ%253D%253D")\
-	vid=$( echo "$query" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | rofi -dmenu -l 10 | cut -f2 || notify-send "Something went wrong...")\
-	[ "$vid" ] && mpv "https://youtube.com""$vid"\
-else\
-	notify-send "No query, closing."\
-fi
-cd dox
-nvim youtubedmenu
-chmod +x ./youtubedmenu
-nvim youtubedmenu
-./youtubedmenu
-./youtubedmenu
-nvim youtubedmenu
-./youtubedmenu
-nvim youtubedmenu
-./youtubedmenu
-rm youtubedmenu
-nvim .config/mpv/playlists
-nvim ~/.config/mpv/playlists
-mpv --shuffle --playlist ~/.config/mpv/playlists
-mpv --shuffle --playlist=~/.config/mpv/playlists
-mpv --input-cmd='loadlist=~/.config/mpv/playlists,append'
-mpv 
-mpv --input-ipc-server=/tmp/mpvsocket
-mpv --input-ipc-sermpv
-mpv
-mpv loadlist .config/mpv/playlists.txt append
-mpv --loadlist .config/mpv/playlists.txt append
-nvim ~/.config/mpv/mpv.conf
-nvim ~/.config/mpv/mpv.conf
-nvim ~/.config/mpv/mpv.conf
-nvim ~/.config/mpv/mpv.conf
-nvim ~/.config/mpv/playlists.txt
-nvim ~/.config/mpv/
-nvim ~/.config/mpv/input.conf
-nvim ~/.config/mpv
-nvim mpvmusicplayer
-nvim mpvmusicplayer
-nvim mpvmusicplayer
-chmod +x ./mpvmusicplayer
-ls
-rm mpv-shot0001.jpg
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-cat /tmp/mpvsocket
-nvim /tmp/mpvsocket
-nvim ./mpvmusicplayer
-nvim /tmp/mpvsocket
-./mpvmusicplayer
-nvim /tmp/mpvsocket
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-mmsg dispatch resizewin 256,256
-mmsg dispatch resizewin,256,256
-mmsg dispatch focusid mpv
-mmsg dispatch focusid,mpv
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-mv ~/.config/mpv/playlists.txt ~/.config/mpv/playlists.m3u
-mpv --playlist=~/.config/mpv/playlists.m3u
-yt-dlp --flat-playlist --print url "https://www.youtube.com/playlist?list=PLNX5B5LBj3fT89wFAu4wsBbx_hbEjZHHM"
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-nvim ./mpvmusicplayer
-./mpvmusicplayer
-echo '{ "command": ["loadfile", "https://www.youtube.com/playlist?list=PLNX5B5LBj3fT89wFAu4wsBbx_hbEjZHHM", "append"] }' | socat - /tmp/mpvsocket
-mkdir ~/.config/mpv/playlists
-mv ~/.config/mpv/playlists.m3u ~/.config/mpv/playlists
-nvim ./mpvmusicplayer
-nvim ./mpvmusicplayer gorka
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer gorka
-ls
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer 
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer 
-nvim ./mpvmusicplayer 
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-cat ~/.config/mpv/playlists/playlists.m3u
-nvim ./mpvmusicplayer 
-cat ~/.config/mpv/playlists/playlists.m3u
-./mpvmusicplayer gorka
-head ~/.config/mpv/playlists/playlists.m3u
-nvim ./mpvmusicplayer 
-./mpvmusicplayer gorka
-~/.config/mpv/playlists/playlists.m3u | ./mpvmusicplayer
-~/.config/mpv/playlists/playlists.m3u | cat
-"~/.config/mpv/playlists/playlists.m3u" | ./mpvmusicplayer
-nvim mpvplayerwrapper
-chmod +x ./mpvplayerwrapper
-nvim mpvplayerwrapper
-./mpvplayerwrapper
-nvim ./screenshotutil
-nvim ./mpvplayerwrapper
-nvim ./mpvplayerwrapper
-./mpvplayerwrapper
-cd ~/.local/share/applications
-ls
-cp firealpaca.desktop ./mpvplayer.desktop
-nvim mpvplayer.desktop
-nvim ~/dox/mpvplayerwrapper
-nvim ~/dox/mpvplayerwrapper
-nvim mpvplayer.desktop
-cd ~/.config/mpv/playlists
-l
-ls
-nvim playlists.m3u
-nvim smoove.m3u
-nvim smoove.m3u
-~/dox/mpvmusicplayer ~/.config/mpv/playlists/smoove.m3u
-cd ~/.local/share/
-cd ..
-cd share
-ls
-cd applications
-ls
-nvim mpvplayer.desktop
-nvim ~/dox/mpvplayerwrapper
-nvim ~/dox/mpvplayerwrapper
-nvim ~/dox/mpvplayerwrapper
-nvim ~/dox/mpvplayerwrapper
-nvim ~/dox/mpvplayerwrapper
-~/dox/mpvmusicplayer "~/.config/mpv/playlists/smoove.m3u"
-nvim ~/dox/mpvmusicplayer
-~/dox/mpvmusicplayer "~/.config/mpv/playlists/smoove.m3u"
-nvim ~/dox/mpvmusicplayer
-~/dox/mpvmusicplayer "~/.config/mpv/playlists/smoove.m3u"
-nvim ~/dox/mpvmusicplayer
-~/dox/mpvmusicplayer "~/.config/mpv/playlists/smoove.m3u"
-~/dox/mpvmusicplayer "/home/eavn/.config/mpv/playlists/smoove.m3u"
-~/dox/mpvmusicplayer "/home/evan/.config/mpv/playlists/smoove.m3u"
-nvim ~/dox/mpvplayerwrapper
-nvim ~/dox/mpvplayerwrapper
-nvim mpvplayer.desktop
-nvim ~/dox/mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-bat ./dox/hackmethod_mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-cp ~/dox/mpvmusicplayer ~/dox/hackmethod_mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-cd dox
-./mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-./mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-./mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-./mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-./mpvmusicplayer
-nvim ~/dox/mpvmusicplayer
-./mpvmusicplayer
-./mpvmusicplayer ~/.config/mpv/playlists/smoove.m3u
-nvim ~/dox/mpvmusicplayer
-./mpvmusicplayer ~/.config/mpv/playlists/smoove.m3u
-nvim ~/dox/mpvmusicplayer
-./mpvmusicplayer ~/.config/mpv/playlists/smoove.m3u
-ls
-mv mpvmusicplayer ./broken_mpvmusicplayer
-mv hackmethod_mpvmusicplayer ./mpvmusicplayer
-man yt-dlp
-mmsg get client
-mmsg get all-clients
-mmsg get client 5
-mmsg get client 6
-mmsg get client 5
-mmsg get client 4
-mmsg get client 3
-mmsg get client 2
-mmsg get client 12
-mmsg get all-clients | jq -r '.[] | select(.appid=="mpv") | .id' | head -n1)
-mmsg get all-clients | jq -r '.[] | select(.appid=="mpv") | .id' | head -n1
-mmsg get all-clients | jq -r '.[] | select(.id=="mpv") | .id' | head -n1
-mmsg get all-clients | jq -r '.[] | select(.pid=="mpv") | .id' | head -n1
-mmsg get all-clients | jq -r '.[] | select(id=="mpv") | .id' | head -n1
-mmsg get client 15
-mmsg get client 121
-mmsg get focusing-client
-mmsg get focusing-client
-man jq
-man mmsg
-mmsg get all-clients
-mmsg get all-clients | jq / "mpv"
-mmsg get all-clients | jq
-man jq
-mmsg get all-clients | jq .["appid"]
-man jq
-mmsg get all-clients | jq '.["appid"]'
-mmsg get all-clients | jq '.[]'
-mmsg get all-clients | jq '.["id"]'
-mmsg get all-clients | jq '.[id]'
-mmsg get all-clients | jq '.["id"]'
-mmsg get all-clients | jq '.[\
-'
-mmsg get all-clients | jq '.['
-mmsg get all-clients | grep "mpv"
-mmsg get all-clients | jq | grep "mpv"
-btop
-nvim
-nvim .config/mpv
-mkdir .config/mpv/scripts
-nvim .config/mpv/scrips/playlistmanager.lua
-nvim .config/mpv/scripts/playlistmanager.lua
-mkdir .config/mpv/script-opts
-nvim .config/mpv/script-opts/playlistmanager.conf
-nvim .config/mpv/input.conf
-nvim .config/mpv/input.conf
-nvim .config/mpv/input.conf
-nvim .config/mpv/script-opts/playlistmanager.conf
-nvim ./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-"Play\nAdd Links" | rofi -dmenu -i
-rofi -dmenu -i "Play\n Add links"
-nvim ./dox/screenshotutil
-echo -e "hi"
-nvim ./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s|^~/.config/mpv/playlists/||"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s|~/.config/mpv/playlists/||"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s|~/.config/mpv/playlists/| |"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/~/.config/mpv/playlists//"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/*playlists"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/*playlists\/g"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/*playlists\///g"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/playlists\//lol/g"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/*playlists\//lol/g"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/+playlists\//lol/g"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/^*playlists\//lol/g"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/.config\/mpv\/playlists\//lol/g"
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/.config\/mpv\/playlists\///g"
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-"lol" != "*.*"
-[ "lol" != "*.*" ]
-[[ "lol" != "*.*" ]]
-nvim ./dox/mpvplayerwrapper
-[[ "lol" != "*.*" ]]
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-cat ~/.config/mpv/playlists/smoove.m3u
-nvim ./dox/mpvplayerwrapper
-cat ~/.config/mpv/playlists/smoove.m3u
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-touch ~/.config/mpv/playlists/smoove1.m3u
-bat ~/.config/mpv/playlists/smoove1.m3u
-rm ~/.config/mpv/playlists/smoove1.m3u
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-nvim ./dox/broken_mpvmusicplayer
-./dox/broken_mpvmusicplayer
-./dox/mpvmusicplayer
-nvim .config/mango/layouts
-nvim .config/mango/layoutselector
-nvim ./dox/mpvmusicplayer
-sed '1d' .config/mpv/playlists/playlists1.m3u
-sed '1d' .config/mpv/playlists/smoove.m3u
-sed '1p' .config/mpv/playlists/smoove.m3u
-sed - p'1d' .config/mpv/playlists/smoove.m3u
-sed -p '1d' .config/mpv/playlists/smoove.m3u
-sed -p '1q;d' .config/mpv/playlists/smoove.m3u
-sed '1q;d' .config/mpv/playlists/smoove.m3u
-nvim ./dox/mpvmusicplayer
-wc PLNX5B5LBj3fQzU5F1bXO5lyS5CM8lr9iC
-wc "PLNX5B5LBj3fQzU5F1bXO5lyS5CM8lr9iC"
-wc -l "PLNX5B5LBj3fQzU5F1bXO5lyS5CM8lr9iC"
-nvim .config/mpv/playlists/.m3u
-rm .config/mpv/playlists/.m3u
-cut -f2
-echo "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-		| paste - - | grep "^/watch?v=.*\s[A-Za-z]"
-echo "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-		| paste - - | grep "^/watch?v=.*\s[A-Za-z]"
-echo "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-		| paste - - | \
-
-echo "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-		| paste - - 
-echo "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - 
-echo "curl -s https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - 
-curl -s https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - 
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - 
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | grep "^/watch?v=.*"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | grep "^/watch?v=.*" | uniq
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | grep "^/watch?v=.*" | sort -u
-man grep
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})' | grep "^/watch?v=.*" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})' | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})' | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | grep "^/watch?v=.*" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep "/watch?v=.*" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep "^/watch?v=.* *[A-Za-z]" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep "^/watch?v=.*  [A-Za-z]" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep "^/watch?v=.*\s[A-Za-z]" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep "^/watch?v=.*\s[A-Za-z]|[A-Za-z].*\s/watch" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep "[A-Za-z].*\s/watch" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep "^[A-Za-z].*\s/watch" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep "^[A-Za-z].*\s/watch|^/watch" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep -P "^[A-Za-z].*\s/watch|^/watch" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep -P "^[A-Za-z].*\s/watch|^/watch?v=.*\s[A-Za-z]" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep -P "^[A-Za-z].*\s/watch|^/watch?v=.*\s[A-Za-z]" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/list=\?v=.{19})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep -P "^[A-Za-z].*\s/watch|^/watch?v=.*\s[A-Za-z]" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/list=.{19})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep -P "^[A-Za-z].*\s/watch|^/watch?v=.*\s[A-Za-z]" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(list=.{19})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep -P "^[A-Za-z].*\s/watch|^/watch?v=.*\s[A-Za-z]" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | grep -P "^[A-Za-z].*\s/watch|^/watch?v=.*\s[A-Za-z]" | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/watch\?v=.{19})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -P 'list'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/list=.{19})|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(/list=.*)|(?<=title":{"runs":\[{"text":").+?(?="}\])' | paste - - | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '/list=.*' | paste - - | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -P '/list=.*' | paste - - | sort -u
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -P '/list=.*'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -P '/watch\?v=.{11}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '/watch\?v=.{11}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '/watch\?v0=.{19}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '/watch\?v0=.{19}\
-
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '/watch\?v0=.{19}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '/watch\?v0=.{11}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '/watch\?v=.{11}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '/watch\?v=.{19}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'listv=.{19}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{19}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{17}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{18}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{19}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{18}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{19}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{21}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{34}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=[A-Za-z]{34}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=[A-Za-z].{34}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{34}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{34}' | grep "^[^:}*$\
-"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{34}' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{34}|(?<=title":{"runs":\[{"text":").+?(?="}\])' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(?<=title":{"runs":\[{"text":").+?(?="}\])' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'title' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'title.{100}' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'text.{100}' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'link.{100}' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list.{100}' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '.{100}list.{100}' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep "title"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{34}|title\":{\"content' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{34}|title.{100}' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'title.{100}' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'title":.{100}' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'title":.{100}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'title":{"content":".{100}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '^title":{"content":"'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(?<=title":{"runs":\[{"text":").+?(?="}\])'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(?<=title":{"content":\[{"text":").+?(?="}\])'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(?<=title":{"content":\[{"content:").+?(?="}\])'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(?<=title":{"content":\[{"content":).+?(?="}\])'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(?<=title":{"content":\.+?(?="}\])'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(?<=title":{"content":.+?(?="}\])'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po '(?<=title":{"content":.+?(?="}\])'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'content":.{5}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po ':{"content":.{15}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po ':{"content":.{35}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{34}|title.{100}' | grep "^[^:]*$"
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{34}|:{"content":.{35}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po 'list=.{34}|:{"content":.{35}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po ':{"content":.{35}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po ':{"content":.{35}|list=.{34}'
-curl -s "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" | grep -Po ':{"content":.{35}|list=.{34}' | paste - -
-yt-dlp "ytsearch20:eiffel 65" --flat-playlist --print "%(title)s\t%(webpage_url)s"
-yt-dlp "ytsearch20:eiffel 65" --flat-playlist --print "%(title)s %(webpage_url)s"
-yt-dlp "ytsearch20:eiffel 65" --flat-playlist --print "%(webpage_url)s %(title)s"
-yt-dlp "results?search_query=eiffel+65&sp=EgIQAw%253D%253D"" --flat-playlist --print "%(title)s %(webpage_url)s"
-yt-dlp "results?search_query=eiffel+65&sp=EgIQAw%253D%253D" --flat-playlist --print "%(title)s %(webpage_url)s"
-yt-dlp "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" --flat-playlist --print "%(title)s %(webpage_url)s"
-yt-dlp "ytsearch20:eiffel 65" --flat-playlist --skid-download --ignore-errors --print "%(webpage_url)s %(title)s"
-yt-dlp "ytsearch20:eiffel 65" --flat-playlist --skip-download --ignore-errors --print "%(webpage_url)s %(title)s"
-man yt-dlp
-./dox/mpvplayerwrapper
-yt-dlp "ytsearch20:eiffel 65" --flat-playlist --skip-download --ignore-errors -print "%{webpage_url)s %(title)s"
-yt-dlp "ytsearch20:eiffel 65" --flat-playlist --skip-download --ignore-errors --print "%(webpage_url)s %(title)s"
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvmusicplayer
-./dox/mpvmusicplayer ~/.config/mpv/playlists/playlists1.m3u
-nvim .config/mpv/playlists
-nvim .config/mpv/playlists
-yt-dlp "ytsearchurl:lofi&type=playlist"
-yt-dlp "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D"
-yt-dlp "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" --skip-download --flat-playlist --print "%(webpage_url)s %(title)s"
-yt-dlp "https://www.youtube.com/results?search_query=eiffel+65&sp=EgIQAw%253D%253D" --skip-download --flat-playlist --playlist-end 15 --print "%(webpage_url)s %(title)s"
-ls .config/mpv/playlists
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/~/\/home\/evan/g"
-rm .config/mpv/playlists/.m3u
-find ".config/mpv/playlists" -type f 2>/dev/null | sed "s/~/\/home\/evan/g"
-find "~/.config/mpv/playlists" -type f 2>/dev/null | sed "s/~/\/home\/evan/g"
-find "~/.config/mpv/playlists" -type f 2>/dev/null 
-find "~/.config/mpv/playlists"
-ls ~/.config/mpv/playlists
-find ~/.config
-nvim ./dox/mpvmusicplayer
-nvim .config/mpv/script-opts/playlistmanager.conf
-nvim .config/mpv/input.conf
-curl -s "https://www.youtube.com/results?search_query=""$query""&sp=EgIQAQ%253D%253D"
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D"
-nvim ./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - -
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])'
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - -
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v="
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - -
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v=.*"
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v=.* *"
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v=.* */"
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v=.*\s*/"
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v=.*\s*[A-Za-z]"
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v=.* *[A-Za-z]"
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v=.*   [A-Za-z]"
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v=.*  [A-Za-z]"
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v=.*[A-Za-z]"
-curl -s "https://www.youtube.com/results?search_query="eiffel 65"&sp=EgIQAQ%253D%253D" | grep -Po '(/watch\?v=.{11})|(?<=title":{"runs":\[{"text":").+?(?="}\])' \\
-	| paste - - | grep "^/watch?v=.*\s[A-Za-z]"
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-bat .config/mpv/playlists/playlists1.m3u
-nvim ./dox/mpvplayerwrapper
-sed '1d' .config/mpv/playlists/playlists1.m3u
-bat .config/mpv/playlists/playlists1.m3u
-sed -i '1d' .config/mpv/playlists/playlists1.m3u
-bat .config/mpv/playlists/playlists1.m3u
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
-nvim ./dox/mpvplayerwrapper
-./dox/mpvplayerwrapper
 nvim ./dox/mpvplayerwrapper
 ./dox/mpvplayerwrapper
 ./dox/mpvplayerwrapper
@@ -10945,3 +8939,1377 @@ cd ..
 rm ./data
 ls -a 
 nvim ./dox/ccode/basicgame/game.c
+equery uses emacs
+btop
+tail /var/tmp/portage/sys-devel/.gcc-15.3.0.portage_lockfile
+doas tail /var/tmp/portage/sys-devel/.gcc-15.3.0.portage_lockfile
+doas tail /var/log/portage/elog/.keep_sys-apps_portage-0
+doas tail /var/log/portage/elog/summary.log
+doas tail -f /var/log/emerge.log
+cd .config
+ls
+rm 'hypr (copy 1)
+rm 'hypr (copy 1)'
+rm ./vlc
+rm ./Mousepad
+rm ./Electron
+eix fnott
+rm ./fnott
+notify-send 'hi'
+rm ./android
+rm ./mozilla ./kitty
+rm ./chess-tui ./cava
+git add ./fastfetch ./foot ./mako ./mango ./mpv ./newsboat ./nsxiv ./nvim ./wineprefixes ./zsh
+git init
+git add ./fastfetch ./foot ./mako ./mango ./mpv ./newsboat ./nsxiv ./nvim ./wineprefixes ./zsh
+git commit -m "Initial Commit"
+git --reset soft ^HEAD
+git reset soft ^HEAD
+git reset --soft ^HEAD
+git reset --soft HEAD^
+git reset --soft
+git log
+git reset --soft HEAD
+git log
+git log
+git reset --soft HEAD^
+git remove ./wineprefixes
+ls -a
+rm .git
+git init
+git add ./fastfetch ./foot ./mako ./mango ./mpv ./newsboat ./nsxiv ./nvim ./zsh
+cd wineprefixes
+ls
+cd umu
+ls
+cd drive_c
+ls
+cd ..
+cd ..
+ls
+cd wine
+cd drive_c
+ls
+mv users ../..
+ln -s ~/.config/wineprefixes/users ./
+cd ../..
+ls
+cd umu/drive_c
+ls
+readlink users
+rm ./users
+ln -s ~/.config/wineprefixes/users ./
+readlink users
+cd ../../wineproton
+cd drive_c
+ls
+realink users
+readlink users
+rm ./users
+ln -s ~/.config/wineprefixes/users ./
+cd ~/.config
+git add ./wallust
+ls
+rm ./hanuchi
+rm ./libreoffice
+rm ./unity3d
+rm ./zshback
+rm ./yay
+git add ./wineprefixes/users
+git diff
+git staged
+git stage
+git status .
+ls
+rm ./ristretto
+git add ./rofi
+git add ./nsxiv
+git add ./newsboat
+git add ./mpv
+git commit -m "initial commit"
+git remote add origin https://github.com/Evan4ik/dotfiles.git
+git push
+git push --set-upstream origin master
+git remote add origin https://github.com/Evan4ik/dotfiles.git
+git push
+git push --set-upstream origin master
+nvim nvim/lua/plugins/orgmode.lua
+nvim fastfetch/config.jsonc 
+cd fastfetch
+cp config.jsonc nixconf.jsonc
+nvim nixconf.jsonc
+nvim config.jsonc
+nvim nixconf.jsonc
+cd ..
+git add ./fastfetch ./nvim
+git commit -m "Laptop fix"
+git push
+nvim ./fastfetch/nixconf.jsonc
+cd ..
+cd .config
+git add ./fastfetch
+git commit -m "nix logo"
+git push
+cd ~/dox/
+mkdir orgfiles
+nvim
+nvim ~/.config/nvim/lua/plugins/orgmode.lua
+nvim
+nvim
+nvim ~/.config/nvim/init.lua 
+nvim ~/.config/nvim/init.lua 
+nvim ~/.config/nvim/init.lua 
+nvim ~/.config/nvim/init.lua 
+nvim ~/.config/nvim/init.lua 
+nvim ~/.config/nvim/init.lua 
+nvim ./dox/portagevideo
+command -v doom
+nvim .zshrc
+source .zshrc
+nvim .zshrc
+source .zshrc
+nvim .zshrc
+bash
+exit
+bash
+eix emac
+eix emacs
+eix eix
+eix emacs
+eix -I app-editors/emacs
+eix app-editors/emacs
+equery use app-editors/emacs
+equery uses app-editors/emacs
+equery uses gcc
+nvim /etc/portage/make.conf
+equery uses portage
+rm ./dox/portagevideo
+eix gentoo-sources
+eix doom emacs
+eix doom
+eix doom-emacs
+eix emacs
+eix ripgrep
+emerge ripgrep
+cd dox
+git clone --depth 1 https://github.com/doomemacs/core ~/.config/emacs
+~/.config/emacs/bin/doom install
+emacs
+doom
+eselect emacs list
+doom sync
+doom install
+emacs
+eix emacs
+doas nvim /etc/portage/package.use/emacs
+doas nvim /etc/portage/package.use/emacs
+emerge emacs
+doas etc-update
+doas nvim /etc/portage/package.use/emacs
+doas nvim /etc/portage/package.use/emacs
+emerge emacs
+doas nvim /etc/portage/package.use/xfce4-panel
+doas nvim /etc/portage/package.use/emacs
+eix fortran
+equery d fortran
+equery d virtual/fortran
+equery uses sys-devel/gcc
+equery uses gui-apps/mangowm
+eix mangowm
+equery uses gui-wm/mangowm
+doas nvim /etc/portage/package.use/xfce4-panel
+emerge emacs
+emacs
+~/.config/emacs/bin/doom install
+doom sync
+doom doctor
+ls -a
+ls -a | grep doom
+cd ~/.emacs.d
+ls
+cd ..
+git clone https://github.com/hlissner/doom-emacs ~/.emacs.d
+rm -rf ~/.emacs.d
+emacs
+doom install
+git clone https://github.com/hlissner/doom-emacs ~/.emacs.d
+~/.emacs.d/bin/doom install
+doom doctor
+bash
+ls -a
+doom doctor
+emacs
+nvim
+cd ./dox/orgfiles
+ls
+nvim vid.org
+gentoo-pipewire-launcher restart & disown
+emacs
+nvim .zshrc
+source .zshrc
+doom doctor
+doom sync
+emacs
+emacs
+nvim .config/mango/config.conf
+/usr/libexec/xdg-desktop-portal
+/usr/libexec/xdg-desktop-portal-wlr
+pkill xdg-desk
+/usr/libexec/xdg-desktop-portal-wlr & disown
+emacs
+emacsclient
+emacsclient --help
+emacsclient -f
+emacsclient -q
+xkill
+nvim
+nvim dox/orgfiles/vid.org
+eix thuanr
+eix thunar
+eix tumbler
+nvim /var/lib/portage/world
+wc ~/dox/orgfiles/vid.org
+nvim ./dox/orgfiles/refile.org
+nvim ./dox/orgfiles/refile.org
+nvim ./dox/orgfiles/
+cd ./dox/orgfiles
+cat ./vid.org
+nvim ..
+nvim ./
+nvim .config/nvim/init.lua
+nvim .config/nvim/lua/plugins/orgmode.lua
+nvim ./dox/orgfiles/refile.org
+nvim ./dox/orgfiles/refile.org
+nvim
+nvim
+nvim
+nvim
+nvim .config/nvim/lua/plugins/orgmode.lua
+nvim
+cd .local/bin
+ls
+cd .local
+mkdir bin
+cd bin
+ls
+nvim cronnotify
+chmod +x cronnotify
+./cronnotify
+nvim cronnotify
+./cronnotify
+./cronnotify
+/bin/true
+DISPLAY=:0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+id -u
+DISPLAY=:0 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus notify-send "hi"
+notify-send "hi"
+DISPLAY=:1 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus notify-send "hi"
+cd
+grep -Rni crontab
+find -name crontab
+man find
+find -iname .zshrc
+find -iname orgagenda
+find -iname org
+find -iname orgfiles
+find -iname "org.*"
+find -iname "org."
+find -iname "org"
+find | grep -i "orgagenda"
+find | grep -i "genda"
+find | grep -i "crontab"
+nvim
+nvim ./dox/ccode/basicgame
+nvim
+nvim
+cd .local/share/nvim/lazy/orgmode/lua
+ls
+cd orgmode
+ls
+nvim
+doas gpasswd -a evan cron
+doas nvim /etc/crontab
+doas nvim /etc/crontab
+cd /etc/cro
+cd /etcc
+cd /etc
+ls
+doas nvim crons.cron
+doas crontab crons.cron
+crontab -l
+doas crontab -l
+doas nvim crontab
+ls cron.*
+doas ls cron.*
+doas rm crons.cron
+nvim testcron.cron
+ls
+doas nvim testcron.cron
+notify-send "Cron"
+crontab testcron.cron
+crontab -l
+doas nvim testcron.cron
+crontab -l
+crontab -l
+crontab testcron.cron
+crontab -l
+doas notify-send "ha"
+notify-send "ha"
+cd ~
+grep -Rni org
+grep -Rni orgagenda
+cd /etc
+nvim testcron.cron
+nvim testcron.cron
+doas nvim testcron.cron
+crontab testcron.cron
+crontab -l
+doas nvim testcron.cron
+crontab testcron.cron
+crontab -l
+nvim cron.daily/mlocate
+nvim cron.daily/systemd-tmpfiles-clean
+doas rm testcron.cron
+crontab -e
+nvim ./crontab
+nvim ~/.local/share/nvim/lazy/orgmode/lua/orgmode/agenda/
+cd ~/.config/nvim/lua/plugins
+ls
+nvim cmp.lua
+cd ~/dox/ccode/basicgame
+cd ~/dox/orgfiles
+nvim test.org
+nvim
+cd /etc/
+ls
+crontab -l
+nvim ~/.config/nvim/lua/plugins/cmp.lua
+/home/evan/.local/bin/cronnotify
+ls
+ls
+nvim doc.org
+rm doc.org
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+cd org
+ls
+nvim repos.org
+ dc ..
+rm ./org
+ls
+cd ..
+ls
+rm ./org
+touch crontest
+,s
+ls
+cat crontest
+rm crontest
+ls
+ls
+nvim crontest
+nvim crontest
+rm crontest
+ls
+rm crontest
+ls
+ls
+ls
+lsl
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+nvim crontest
+ls
+rm crontest
+ls
+ls
+nvim crontest
+nvim crontest
+rm crontest
+ls
+ls
+rm crontest
+ls
+rm crontest
+ls
+nvim croecho "$DBUS_SESSION_BUS_ADDRESS"
+echo "$DBUS_SESSION_BUS_ADDRESS"
+nvim ./dox/orgfiles
+crontab -l
+man crontab
+crontab -d
+man crontab
+crontab -l
+notify-send "Hi:\
+"
+XDG_RUNTIME_DIR=/run/user/$(id -u) notify-send Hey "this is dog\
+"
+XDG_RUNTIME_DIR=/run/user/$(id -u) notify-send Hey "this is dog"
+nvim .local/bin/cronnotify
+.local/bin/cronnotify
+cd .local/bin
+nvim cron
+crontab cron
+crontab -l
+/usr/bin/notify-send
+/usr/bin/notify-send h
+crontab -d
+nvim cron
+export DISPLAY=:0.0 XDG_RUNTIME_DIR=/run/user/$(id -u) /usr/bin/notify-send "Hi cron"
+export DISPLAY=:0.0 && XDG_RUNTIME_DIR=/run/user/$(id -u) /usr/bin/notify-send "Hi cron"
+nvim cron
+crontab cron
+crontab -l
+cat /var/log/lastlog
+nvim cron
+crontab cron
+crontab -l
+crontab -l
+echo "Test" | home/evan/crontest
+echo "Test" | home/evan/crontest
+echo "Test" | tee home/evan/crontest
+tee "Test" home/evan/crontest
+tee /home/evan/crontest | echo "Te\
+"
+echo "hi" | tee /home/evan/crontest
+echo "hi" | tee /home/evan/crontest
+nvim cron
+crontab cron
+crontab -l
+crontab -l
+crontab -d
+crontab -l
+doas nvim crontab
+doas crontab ./cron
+doas crontab -l
+crontab -l
+doas nvim /etc/crontab
+doas crontab /etc/crontab
+doas crontab -l
+doas crontab ./cron
+doas crontab -l
+doas rc-service status dcron
+doas rc-service dcron statu
+doas rc-service dcron status
+doas rc-service dcron start
+doas rc-service dcron status
+doas rc-update dcron add
+doas rc-update add dcron
+doas crontab -l
+doas crontab /etc/crontab
+ls
+rm Test
+cd /etc
+find | grep -i snapper
+cd ~/.local/bin
+ls
+nvim cron
+crontab ./cron
+crontab -l
+export DISPLAY=0.0 && XDG_RUNTIME_DIR=/run/user/$(id -u) notify-send "I enjoy cron"
+nvim cron
+mv cron cron.cron
+nvim cron.cron
+crontab -l
+crontab ./cron.cron
+crontab -l
+crontab ./cron.cron
+nvim cron.cron
+crontab -l
+nvim ~/.config/mako/config 
+notify-send "hi"
+nvim ~/.config/mako/config 
+nvim ~/.config/wallust/templates/mako
+nvim cron.cron
+export DISPLAY=0 && XDG_RUNTIME_DIR=/run/user/$(id -u) notify-send "I enjoy cron"
+crontab cron.cron
+crontab -l
+nvim cron.cron
+crontab cron.cron
+crontab -l
+export DISPLAY=:0.0 && notify-send Hey "How are you"
+nvim cron.cron
+crontab cron.cron
+ls
+DISPLAY=:0.0 notify-send Hey "How are you"
+crontab -l
+nvim cron.cron
+/usr/bin/notify-send "hi"
+crontab cron.cron
+crontab -l
+nvim cron.cron
+crontab cron.cron
+crontab -l
+nvim cronnotify
+./cronnotify
+nvim cron.cron
+/home/evan/.local/bin/cronnotify
+crontab cron.cron
+crontab -l
+/bin/sh /home/evan/.local/bin/cronnotify
+nvim cron.cron
+crontab cron.cron
+crontab -l
+notify-send 'cronnotify' 
+notify-send -u 'cronnotify' 
+notify-send -u critical 'cronnotify'  
+notify-send -u low 'cronnotify'  
+notify-send -u normal 'cronnotify'  
+env | grep DBUS
+nvim cron.cron
+crontab cron.cron
+crontab -l
+env 
+env | grep DBUS
+nvim cron.cron
+DISPLAY=:0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/$(id -u)/bus" notify-send "dikembe"\
+
+DISPLAY=:0 DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/$(id -u)/bus" notify-send "dikembe"\
+
+doas nvim /usr/share/lightdm/
+cd /usr/share
+find | grep mango
+nvim ./wayland-sessions/mangodbus.desktop
+doas nvim ./wayland-sessions/mangodbus.desktop
+eix cron
+export DISPLAY=:0.0 && export XAUTHORITY=/home/[user-name]/.Xauthority && /usr/bin/notify-send -t 0 'Maintenance' 'Run the maintenance commands'
+export DISPLAY=:0.0 && export XAUTHORITY=/home/[user-name]/.Xauthority && /usr/bin/notify-send 'Maintenance' 'Run the maintenance commands'
+cd ~.local/binm
+cd ~.local/bin
+cd ~/.local/bin
+nvim cron.cron
+crontab cron.cron
+crontab -l
+nvim cron.cron
+crontab cron.cron
+crontab -l
+notify-send -t 0 "This wont expire"
+nvim cron.cron
+crontab cron.cron
+crontab -l
+export DISPLAY=:0.0 && export XAUTHORITY=/home/evan/.Xauthority && export DBUS_SESSION_ADDRESS=unix:path=/tmp/dbus-oVSBEpQS1X,guid=fc3922a2324ce495c05ee3576a9aa990 && /usr/bin/notify-send 'Maintenance' 'Run the maintenance commands'
+man mako
+man makoctl
+nvim ~/.config/wallust/templates/mako
+nvim ~/.config/wallust/templates/mako
+crontab -l
+export DISPLAY=:0.0 && export XAUTHORITY=/home/evan/.Xauthority && export DBUS_SESSION_ADDRESS=unix:path=/tmp/dbus-oVSBEpQS1X,guid=fc3922a2324ce495c05ee3576a9aa990 && /usr/bin/notify-send 'Maintenance' 'Run the maintenance commands'
+env | grep XDG
+nvim cron.cron
+crontab cron.cron
+crontab -l
+dat
+date
+nvim cron.cron
+crontab cron.cron
+crontab -l
+crontab cron.cron
+nvim cron.cron
+crontab cron.cron
+crontab -l
+nvim cron.cron
+crontab -l
+crontab cron.cron
+crontab -l
+nvim cron.cron
+crontab cron.cron
+crontab -l
+doas env -i \\
+    HOME=/home/wrq \\
+    PATH=/home/wrq/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin:/home/wrq/.local/bin \\
+    WAYLAND_DISPLAY=wayland-0 \\
+    DISPLAY=:1 \\
+    XDG_RUNTIME_DIR=/run/user/1000 \\
+    DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus \\
+    XDG_SESSION_TYPE=wayland \\
+    /usr/bin/nemo
+doas env -i \\
+    HOME=/home/wrq \\
+    PATH=/home/wrq/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin:/home/wrq/.local/bin \\
+    WAYLAND_DISPLAY=wayland-0 \\
+    DISPLAY=:1 \\
+    XDG_RUNTIME_DIR=/run/user/1000 \\
+    DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus \\
+    XDG_SESSION_TYPE=wayland \\
+    /usr/bin/thunar
+doas /usr/bin/thunar
+DISPLAY=:0 /usr/bin/thunar
+doas DISPLAY=:0 /usr/bin/thunar
+doas export DISPLAY=:0 && /usr/bin/thunar
+su -
+eix mako
+equery -d dev-python/mako
+equery d dev-python/mako
+eix dunst
+equery uses dunst
+cat crontest
+echo "$date"
+echo $date
+echo date
+cat crontest
+cat crontest
+cat crontest
+cat crontest
+cat crontest
+cat crontest
+cat crontest
+cat crontest
+cat crontest
+env | grep DBUS
+crontab -d
+crontab -l
+cat crontest
+rm crontest
+speaker-test -t sine -f 500
+equery uses raylib
+doas rm /etc/portage/package.use/raylib
+cd /
+find | grep -i raylib
+doas find | grep -i raylib
+eix raylib
+nvim /var/db/repos/guru/media-libs/raylib
+doas ldconfig
+pkg-config --modversion raylib
+cd ./dox/ccode/timer
+./timer
+./timer
+./timer
+ls -a
+cd .steam
+ls
+cd ..
+rm -rf .steam .steampath .steampid
+cd ..
+cd evan
+ls -a
+eix steam
+eix portage helper
+eix pt
+equery uses
+equery uses getopt
+equery uses empty
+eix ly
+eix -S display manaer
+eix -S display manager
+man eix
+eix -S display
+eix lightdm
+eix -S "display manager"
+eix zig
+eix cron
+eix timer
+cd do
+cd dox
+cd ccode
+ls
+mkdir misc
+mv *.c ./misc
+ls
+mv *.o *.h ./misc
+ls
+mv hello helloworld sentenceprint stringreverse ./misc
+ls
+eix raylib
+eix raymath
+emerge raylib
+echo "media-libs/raylib -X wayland" | doas tee /etc/portage/package.use/raylib
+emerge raylib
+emerge raylib
+doas etc-update
+emerge raylib
+mkdir timer
+cd timer
+nvim timer.c
+gcc timer.c -o timer
+./timer
+nvim timer.c
+./dox/ccode/timer/timer
+./dox/ccode/timer/timer -b
+./dox/ccode/timer/timer -b h
+./dox/ccode/timer/timer -b #000000
+./dox/ccode/timer/timer -b 00000
+./dox/ccode/timer/timer -b 000000
+./dox/ccode/timer/timer -b 0
+./dox/ccode/timer/timer -b 
+./dox/ccode/timer/timer -b 1
+./dox/ccode/timer/timer -b h
+./dox/ccode/timer/timer -b h
+./dox/ccode/timer/timer -b 00000000
+./dox/ccode/timer/timer -b 000000000
+./dox/ccode/timer/timer -b 000000000
+./dox/ccode/timer/timer -b #FFFFFF
+./dox/ccode/timer/timer -b #FFFFFFFF
+./dox/ccode/timer/timer -b #FFFFFFFF
+./dox/ccode/timer/timer -b #FFFFFF00
+./dox/ccode/timer/timer -b #00000000
+./dox/ccode/timer/timer -b #000000BB
+./dox/ccode/timer/timer -b #000000AA
+./dox/ccode/timer/timer -b #000000DD
+./dox/ccode/timer/timer -b #000000FD
+./dox/ccode/timer/timer -b #AA0000FD
+./dox/ccode/timer/timer -b #AA00000D
+./dox/ccode/timer/timer -b #AAAACC0D
+./dox/ccode/timer/timer -b #AAAACC00
+./dox/ccode/timer/timer -b #AAAACC00
+./dox/ccode/timer/timer 
+./dox/ccode/timer/timer -s 10
+./dox/ccode/timer/timer -s 100
+./dox/ccode/timer/timer -s 0
+./dox/ccode/timer/timer -s 64
+./dox/ccode/timer/timer 
+./dox/ccode/timer/timer -t #CCAAAA
+./dox/ccode/timer/timer -t #Aaaaaa
+./dox/ccode/timer/timer -t #aaaaaa
+ls /usr/share/fonts
+ls -a
+ls /usr/share/fonts
+ls /usr/share/fonts/jetbrains-mono
+fc-list
+fc-match
+man fc-list
+fc-list -h
+fc-list -q
+fc-list -b
+fc-list -b | grep -i jetbrains
+fc-list -b | grep -i jetbrains | grep -i regular
+cd /usr/share/fonts
+ls
+cd noto
+ls
+fc-list JetBrainsMono-Regular file
+fc-list JetBrainsMono-Regular.tff file
+fc-list JetBrainsMono-Regular.ttf file
+fc-list JetBrainsMono.ttf file
+fc-list JetBrainsMono-Bold file
+fc-list $(fc-list|grep -i <apprx-part-font-name>|head -n 1|awk '{print $NF}') file|sed 's/: $//'
+fc-list $(fc-list|grep -i JetBrainsMono-Regular|head -n 1|awk '{print $NF}') file|sed 's/: $//'
+fc-list $(fc-list|grep -i JetBrainsMono|head -n 1|awk '{print $NF}') file|sed 's/: $//'
+fc-list JetBrainsMono-Bold file| grep JetBrainsMono-Bold
+fc-list JetBrainsMono-Bold file| grep JetBrainsMono-Bold | head 1
+fc-list JetBrainsMono-Bold file| grep JetBrainsMono-Bold | head 
+fc-list JetBrainsMono-Bold file| grep JetBrainsMono-Bold | head -1 
+fc-list JetBrainsMono-Bold file| grep JetBrainsMono-Bold.ttf | head -1 
+cd ./dox/ccode/t
+cd ./dox/ccode/timer
+ls
+./timer
+./timer -t aaaaaa
+./timer -t ffffff
+./timer -t ffffff
+./timer -t ffffff
+./timer -t ffffff
+./timer -t ffffff
+./timer -t ffffff
+./timer -t ffffff
+./timer -t ffffff
+man swaylock
+./timer -s 16
+./timer -s 128
+./timer -s 128
+./timer -s 128
+./timer -s 128
+./timer -s 128
+./timer -s 128
+./timer -s 128
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+cat /usr/share/fonts/nerdfonts/JetBrainsMonoNerdFont-Regular.ttf
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+nvim ../basicgame/game.c
+./timer
+./timer -f JetBrainsMono-Bold
+./timer -f JetBrainsMono-Bold
+./timer -f JetBrainsMono-Bold
+./timer -f JetBrainsMono-Bold
+./timer -f JetBrainsMono-Bold
+./timer -f JetBrainsMono-Bold
+fc-list JetBrainsMono-Bold | grep JetBrainsMono-Bold.ttf | head -1
+fc-list JetBrainsMono-Bold | grep JetBrainsMono-Bold.ttf | head -1 | sed 's/:.*//'
+./timer -f JetBrainsMono-Bold
+./timer -f NotoSerifToto-Medium
+./timer -f NotoSerif-Black
+./timer -f NotoS
+./timer -f NotoS
+./timer -f NotoSerif
+./timer -f NotoSerif-Bold
+./timer -f Hi
+./timer -f NotoSansVai-Regular
+./timer -f NotoSansVai-Regular -b 00000000
+./timer -f NotoSansVai-Regular -b 000000DD
+./timer -f NotoSansVai-Regular -b FFFFFDD
+./timer -f NotoSansVai-Regular -b FFFFF00
+./timer -f NotoSansVai-Regular -b BBBBBB00
+./timer -f NotoSansVai-Regular -b BBBBB00
+./timer -f NotoSansVai-Regular -b BBBBBB00
+./timer -f NotoSansVai-Regular -b BBBBBB00
+./timer -s 128
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer -m
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer -m
+./timer -m
+./timer -m
+./timer -m
+./timer -m
+./timer -m
+./timer -m
+./timer -m
+./timer -m
+./timer -m
+./timer -m
+./timer -r
+./timer -r
+./timer -r
+./timer -r
+./timer -r
+./timer -r
+./timer -r
+./timer -r
+./timer -r
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -m
+./timer -rm
+./timer -rm -t 120
+nvim ../basicgame/gamelogic.h
+nvim ../basicgame/gamelogic.h
+nvim ../basicgame/gamelogic.c
+./timer -rm -t 120
+./timer -rm -t 120
+./timer -rm -t 120
+./timer -rm -t 120
+./timer -rm -t 120
+./timer -rm -t 120
+./timer -rm
+/bin/bash ./timer
+doas ./timer
+/bin/bash ./timer
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer -rm
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer 
+./timer -m
+./timer -rm
+./timer -rm -t 120
+./timer -rm -t 120
+./timer -rm -t 120
+./timer -rm -t 120 -s 256
+./timer -rm -t 300
+./timer -rm -t 3000
+./timer -rm -t 4800
+./timer -rm -t 12800
+./timer -rm -t 112800
+./timer -rm -t 112800
+./timer -rm -t 112800
+./timer -rm -t 112800
+./timer -rm -t 112800
+./timer -rm -t 112800
+./timer -rm -t 112800
+./timer -rm -t 112800
+./timer -rm -t 112800
+./timer -rm -t 112800
+./timer -rm -t 112800
+./timer -rm -t -1
+./timer -rm -t -1
+./timer -rm -t -1
+./timer -rm -t 150
+./timer -rm -t 100
+./timer -rm -t 1
+./timer -rm -t 0
+./timer -rm -t 1
+./timer -rm -t 1
+./timer -rm -t 1
+./timer -rm -t 1
+./timer -rm -t 1
+./timer -rm -t 1
+./timer -rm -t 1
+./timer -rm -t 1
+./timer -rm -t 1
+./timer -rm -t 1
+./timer -t 2 -e "notify-send Hello"
+./timer -t 2 
+./timer 
+./timer -t 1
+./timer -t 1
+./timer -t 1
+./timer -t 1 -e 'notify-send ola'
+./timer -t 1 -e 'notify-send ola'
+./timer -t 1 -e 'notify-send ola'
+./timer -t 1 -e 'notify-send ola'
+./timer -t 1 -e 'notify-send ola'
+./timer -t 1 -e 'notify-send ola'
+./timer -t 1 -e 'notify-send ola'
+./timer -t 1 -e 'notify-send ola'
+./timer -t 1 -e 'notify-send ola'
+./timer -u -t 1 -e 'notify-send ola'
+./timer -u -t 50 -e 'notify-send ola'
+./timer -u -t 50 -e 'notify-send ola'
+./timer -u -t 50 -e 'notify-send ola'
+./timer -u -t 5 -e 'notify-send ola'
+./timer -u -t 5 -e 'notify-send ola'
+./timer -u -t 5 -e 'notify-send ola'
+./timer -u -t 5 -e 'notify-send ola'
+./timer -u -t 5 -e 'notify-send ola'
+./timer -u -t 0 -e 'notify-send ola'
+./timer -t 5 -e 'notify-send ola'
+./timer -ut 5 -e 'notify-send ola'
+./timer -ut =5 -e 'notify-send ola'
+./timer -ut -5 -e 'notify-send ola'
+./timer -u t -5 -e 'notify-send ola'
+./timer -u -t -5 -e 'notify-send ola'
+./timer -u -t '5' -e 'notify-send ola'
+./timer -u -t '5' -e 'notify-send ola'
+./timer -u -e 'notify-send ola' -t 5
+./timer -u -e 'notify-send ola' -t 5
+./timer -u -e 'notify-send ola' -t 5
+./timer -u -e 'notify-send ola' -t 5
+./timer -u -e 'notify-send ola' -t 5
+cd ./dox/ccode/timer
+nvim 
+nvim 
+cd ./dox/ccode/timer
+nvim
+reboot
+doas reboot
+dbus-launch mango ; gentoo-pipewire-launcher restart
+nvim /home/evan/.local/bin/cronnotify
+ls /home/evan/dox/orgfiles
+man grep
+.local/bin/cronnotify
+nvim vid.org
+nvim 
+.local/bin/cronnotify
+.local/bin/cronnotify
+grep -oh "TODO.*" /home/evan/dox/orgfiles
+grep -oh "TODO.*" /home/evan/dox/orgfiles/vid.org
+echo || grep -oh "TODO.*" /home/evan/dox/orgfiles/vid.org
+grep -oh "TODO.*" /home/evan/dox/orgfiles/vid.org || echo
+.local/bin/cronnotify
+echo $(grep -oh "TODO.*" /home/evan/dox/orgfiles/$file)
+echo $(grep -oh "TODO.*" /home/evan/dox/orgfiles/vid.org)
+grep -oh "TODO.*" /home/evan/dox/orgfiles/vid.org
+$(grep -oh "TODO.*" /home/evan/dox/orgfiles/vid.org)
+echo $(grep -oh "TODO.*" /home/evan/dox/orgfiles/vid.org)
+man ehco
+man echo
+echo -en $(grep -oh "TODO.*" /home/evan/dox/orgfiles/vid.org)
+echo -e $(grep -oh "TODO.*" /home/evan/dox/orgfiles/vid.org)
+nvim ./dox/orgfiles/vid.org
+grep -Eoh "DEADLINE.*|SCHEDULE.*" /home/evan/dox/orgfiles/$file | sed -E 's/(DEADLINE:|SCHEDULE:|SCHEDULED:) <|>//g' | sed -E 's/-|:/ /g'
+grep -Eoh "DEADLINE.*|SCHEDULE.*" /home/evan/dox/orgfiles/vid.org | sed -E 's/(DEADLINE:|SCHEDULE:|SCHEDULED:) <|>//g' | sed -E 's/-|:/ /g'
+nvim
+nvim .config/wallust/templates/mako
+snapper list
+snapper delete 5
+snapper list
+fastfetch
+cd /.snapshots
+ls
+cd 6
+ls
+cd snapshot
+ls
+cd home
+ls
+cd .
+cd ..
+cd ..
+cd snapshot
+ls -a
+cd .snapshots
+ls
+cd ..
+cd b
+cd boot
+ls
+cd ..
+cd media
+ls
+cd ..
+cd etc
+ls
+cd ..
+read -h ~/qBits
+size -h ~/qBits
+size ~/qBits
+du -sh ~/qBits
+du -sh /.snapshots
+doas du -sh /.snapshots
+date
+echo "# $(date)"
+crontab -l
+cd .local/bin
+ls
+nvim cron.cron
+crontab cron.cro
+crontab cron.cron
+crontab -l
+cat /home/evan/crontest
+su -
+nvim cron.cron
+cat ~/crontest
+cat ~/crontest
+cat ~/crontest
+cat ~/crontest
+nvim cronnotify
+nvim cron.cron
+nvim cronnotify
+nvim cronnotify
+crontab -d
+nvim cronnotify
+./cronnotify
+nvim cronnotify
+nvim cronnotify
+nvim cronnotify
+nvim ./dox/dmenuytutils/mpvplayerwrapper
+nvim ./dox/dmenuytutils/mpvmusicplayer
+nvim ./dox/dmenuytutils/mpvplayerwrapper
+env | grep DBUS
+nvim ./dox/orgfiles/vid.org
+notify-send -u "heads up"
+notify-send -u critical "heads up"
+nvim ./dox/orgfiles/vid.org
+grep -Eoh "^DEADLINE.*" /home/evan/dox/orgfiles/test.org
+grep -Eoh "^DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -Eoh "^*DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -Eoh "*DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -Eoh "^DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -Eoh "DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -Eoh "^DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -E "^DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -E "DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -E "*^DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -E "^DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -E "^*DEADLINE.*" /home/evan/dox/orgfiles/vid.org
+grep -E "^*DE" /home/evan/dox/orgfiles/vid.org
+grep -E "^DE" /home/evan/dox/orgfiles/vid.org
+grep -E "^DE" /home/evan/dox/orgfiles/test.org
+grep -E "DE" /home/evan/dox/orgfiles/test.org
+grep -E "\s*^DE" /home/evan/dox/orgfiles/test.org
+grep -E "\s*DE" /home/evan/dox/orgfiles/test.org
+grep -E "\s*DE" /home/evan/dox/orgfiles/vid.org
+grep -E "^\s*DE" /home/evan/dox/orgfiles/vid.org
+grep -E "^\s*DE" /home/evan/dox/orgfiles/test.org
+cd dox/orgfiles
+nvim test.org
+cd ./dox/orgfiles
+nvim test.org
+notify-send -u low
+notify-send -u low hi
+notify-send -u 'low' hi
+notify-send -u 'high' hi
+notify-send -u 'critical' hi
+~/.local/bin/cronnotify low "hi" "hello"
+nvim test.org
+grep -oh "TODO.*" /home/evan/dox/orgfiles/test.org
+grep -oh "DONE.*" /home/evan/dox/orgfiles/test.org
+nvim vid.org
+nvim .config/mango/waybar/colors.css
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+/home/evan/.local/bin/cronnotify 'critical' 'TEST' 'does ts work'
+/home/evan/.local/bin/cronnotify 'critical'
+/home/evan/.local/bin/cronnotify 'critical' 'test'
+/home/evan/.local/bin/cronnotify 'critical' 'test' 'hi'
+/home/evan/.local/bin/cronnotify 'critical' 'test' 'hi does'
+/home/evan/.local/bin/cronnotify 'critical' 'test' "hi does"
+/home/evan/.local/bin/cronnotify 'critical' "test" "hi does"
+crontab -l
+crontab -l
+crontab -l
+nvim .local/bin
+cat crontest
+rm crontest
+cronagenda 
+method man
+nvim .config/wallust/templates/
+rm -rf .config/obs-studio
+fastfetch
+nvim
+nvim
+crontab -l
+man craw
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+crontab -l
+cd dox/ccode/timer
+nvim
+pkill emacs
+rm ~/.emacs.d/config.el
+emacs -n
+nvim ./dox/ccode/timer
+cd .config/nvim/lua/plugins
+ls
+mv neotree.lua ../
+nvim oil.lua
+nvim
+nvim
+cd .config/nvim/lua/plugins
+ls
+rm oil.lua
+cd ..
+ls
+mv neotree.lua ./plugins
+rm removets
+nvim
+ls
+nvim
+nvim
+nvim
+nvim
+nvim
+nvim
+nvim
+nvim .zshrc
+emacs
+cd .config
+ls
+mkdir emac
+mv emac ./emacs
+emacs
+cd .config/emacs
+ls
+nvim init.el
+user-init-file
+emacs --debug-init
+emacs --init-directory ~/.config/emacs
+emacs --init-directory ~/.config/emacs
+emacsclient
+doas rc-service emacsclient start
+emacsclient -t
+emacsclient -tc
+emacsclient -c
+emacsclient -c
+emacsclient -c
+rc-update --user add emacs default
+doas rc-service user.username start
+doas rc-service user.evan start
+emacsclient
+eix emacs
+crontab -l
+.local/bin/cronagenda
+crontab -l
+nvim ./dox/orgfiles
+crontab -l
+nvim .local/bin/cronagenda
+nvim .local/bin/cronagenda
+crontab -l
+.local/bin/cronagenda
+crontab -l
+nvim
+pkill emacs
+pkill emacs
+emacs
+emacs --debug-init
+pkill emacs
+find ~/.config/emacs -maxdepth 3 -type -d -iname 'evil'
+find ~/.config/emacs -maxdepth 3 -type d -iname 'evil'
+find ~/.config/emacs -maxdepth 8 -type d -iname 'evil'
+find ~/.config/emacs | grep evil
+rm -rf ~/.config/emacs/elpa/evil-*
+find ~/.config/emacs | grep evil
+rm -rf ~/.config/emacs/striaght
+rm -rf ~/.config/emacs/straight
+rm -rf ~/.config/emacs/eln-cache/
+emacs
+pkill emacsclient
+/usr/bin/emacs --fg-daemon
+/usr/bin/emacs --fg-daemon
+/usr/bin/emacs --fg-daemon & disown
+btop
+emacsclient
+emacsclient --help
+emacsclient -r
+emacsclient -r
+emacsclient --hlep
+emacsclient --help
+nvim .config/mango/config.conf
+emerge --moo
+emerge --moo
+emerge ---mo
+emerge --moo
+emerge --moo
+emerge --moo
+emerge --moo
+emerge --search eix
+eix eix
+eix everything
+eix emacs
+eix app-editors/emacs
+equery uses app-editors/emacs
+eix gcc
+equery uses gcc
+nvim /etc/portage/make.conf
+nvim /etc/portage/package.use
+eix librewolf
+eselect news read
+eselect news list
+eselect news read 33
+clear
+@world world set
+/var/lib/portage/world
+nvim /var/lib/portage/world
+nvim /var/lib/portage/world
+/etc/portage/sets
+cd /etc/portage/sets
+clear
+cd /var/lib/gentoo
+ls
+cd 
+clear
+cd /var/db/repos/
+ls
+cd gentoo
+ls
+cd ../guru
+ls
+cd gui-wm/mangowm
+ls
+nvim mangowm-0.16.1.ebuild
+clear
+nvim mangowm-0.16.1.ebuild
+eix gentoo-sources
+emerge \=gentoo-sources-7.2.2
+clear
+eix waybar
+cd ../../
+cd gui-apps
+ls
+cd eww
+ls
+eix eww
+clear
+cd ..
+cd ..
+clear
+eix waybar
+cd
+cd /var/db/repos/guru
+ls
+cd app-vim
+ls
+eix css-color
+eix dracula
+cd ..
+ls
+cd games-server
+ls
+eix among-sus
+cd ..
+cd gui-apps
+ls
+eix heh
+eix nwg
+eix noctalia
+emerge /=noctalia-9999
+emerge /=noctalia**9999
+emacs
+eix tetris
+emerge nottetris2
