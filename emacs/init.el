@@ -1,3 +1,6 @@
+(setq custom-file (concat user-emacs-directory "custom.el"))
+(when (file-exists-p custom-file)
+  (load custom-file))
 ;; config
 
 (tool-bar-mode -1)
@@ -99,5 +102,3 @@
 (global-set-key (kbd "C-c l") #'org-store-link)
 (global-set-key (kbd "C-c a") #'org-agenda)
 (global-set-key (kbd "C-c c") #'org-capture)
-
-(load-file "~/.config/emacs/tokyonight-theme.el")

@@ -1,6 +1,6 @@
 vim.g.mapleader = ","
 
-require("config.lazy")
+require("config.lazy") --test
 require("config.settings")
 
 vim.keymap.set("v", "<C-c>", '"+y', { noremap = true })

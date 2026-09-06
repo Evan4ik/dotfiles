@@ -10313,3 +10313,57 @@ emerge /=noctalia**9999
 emacs
 eix tetris
 emerge nottetris2
+cd .config
+git add .emacs
+git add ./emacs
+git reset ./emacs
+cd emacs
+ls
+cd ..
+git add ./emacs/init.el
+git add ./emacs/tokyonight.el
+git add ./emacs/tokyo-night.el
+git commit -m "Emacs
+git commit -m "Emacs"
+man gitignore
+emacs .gitignore
+git add .
+git commit -m "Emacs"
+git push
+git add .
+git commit -m "Fox:\
+"
+git push
+git add ./nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+nvim .gitignore
+git add ./nvim/lua/plugins/telescope.lua
+git check-ignore -v nvim/lua/plugins/telescope.lua
+git add ./nvim/lua/plugins/telescope.lua
+git add .
+git reset
+git add .
+git staged
+git stage
+git diff
+git diff --cached
+git reset
+git add .
+git commit -m "Fix"
+git push
+git add .
+git diff --cached
+git reset
+git pull
+vim
+nvim
+gentoo-pipewire-launcher restart & disown
