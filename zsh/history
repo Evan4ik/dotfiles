@@ -10367,3 +10367,39 @@ git pull
 vim
 nvim
 gentoo-pipewire-launcher restart & disown
+cd .config
+ls
+cd systemd
+ls
+cd user
+ls
+cd ~/.config
+rm -rf ./systemd
+rm -rf ./plasma*
+ls
+cat Trolltech.conf
+git add .
+git diff
+git commit -m "Emacs fix"
+git push
+btop
+bto
+btop
+eix syncthing
+emerge net-p2p/syncthing
+eselect news read
+~/.local/bin/cronagenda
+crontab -l
+cd .config
+git add ./emacs
+git commit -m "emacs me"
+git push
+git pull
+git config pull.rebase false
+git pull
+git pull
+git add ./emacs
+git commit -m "Emacs"
+git push
+pkill emacs
+btop

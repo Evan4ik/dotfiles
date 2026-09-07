@@ -1,4 +1,4 @@
-;; -*- lexical-binding: t;-*-
+;; -*- lexical-binding: nil; -*-
 (add-file-local-variable-prop-line 'lexical-binding nil)
 (setq custom-file (concat user-emacs-directory "custom.el"))
 (when (file-exists-p custom-file)
@@ -21,6 +21,7 @@
 (savehist-mode 1)
 (global-auto-revert-mode 1)
 (setq global-auto-revert-non-file-buffers t)
+(delete-selection-mode 1)
 
 (ido-mode 1)
 (setq-default dired-listing-switches "-alh")
