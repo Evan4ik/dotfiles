@@ -1,3 +1,5 @@
+;; -*- lexical-binding: t;-*-
+(add-file-local-variable-prop-line 'lexical-binding nil)
 (setq custom-file (concat user-emacs-directory "custom.el"))
 (when (file-exists-p custom-file)
   (load custom-file))
@@ -88,7 +90,6 @@
     (kbd "C-s") #'save-buffer
     (kbd "C-j") #'other-window
     (kbd "C-k") #'other-window
-    (kbd "C-l") #'evil-window-prev
     (kbd "SPC") 'org-toggle-checkbox))
 
 
