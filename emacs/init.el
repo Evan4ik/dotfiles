@@ -89,6 +89,8 @@
     (kbd "C-j") #'other-window
     (kbd "C-k") #'other-window
     (kbd "C-l") #'evil-window-prev
+    (kbd "C-a") #'org-timestamp-up
+    (kbd "C-S-a") #'org-timestamp-down
     (kbd "SPC") 'org-toggle-checkbox))
 
 
