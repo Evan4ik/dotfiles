@@ -7,7 +7,8 @@
 (menu-bar-mode -1)
 (scroll-bar-mode -1)
 (setq inhibit-startup-screen t)
-(setq visible-bell 1)
+(setq visible-bell nil)
+(setq ring-bell-function #'ignore)
 
 (global-display-line-numbers-mode 1)
 (column-number-mode 1)
